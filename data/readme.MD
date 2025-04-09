@@ -1,0 +1,1 @@
+All the data(topics.xml) required for this project has been taken from https://github.com/NULabTMN/cs6200-spring2025-homework-1-cs6200-relevance/forks and modified by annotating with the timelines.
