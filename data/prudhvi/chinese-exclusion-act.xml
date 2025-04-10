@@ -4,6 +4,7 @@
       <result>
 	    <id>https://www.loc.gov/resource/sn85053040/1882-05-13/ed-1/?sp=1&amp;q=Bill+bill+Chinese+signed&amp;st=text&amp;r=-0.297,-0.08,1.594,1.594,0</id>
 	    <rel>1</rel>
+        <time>1882-05-13</time>
 	    <text>
             The Chinese Bill.
             The bill signed by the President on the
@@ -53,6 +54,7 @@
       <result>
 	    <id>https://www.loc.gov/resource/sn85066387/1901-11-22/ed-1/?sp=1&amp;q=Act+act+Chinese+Exclusion+exclusion</id>
 	    <rel>1</rel>
+        <time>1901-11-22</time>
 	    <text>
             CHINESE EXCLUSION CONVENTION OPENS
             FIGHT IN DEFENSE OF AMERICAN LABOR
@@ -128,6 +130,7 @@
       <result>
           <id>https://www.loc.gov/resource/sn85066387/1901-11-23/ed-1/?sp=1&amp;q=Chinese+CHINESE+exclusion+EXCLUSION+Exclusion&amp;r=-1.148,-0.005,3.296,1.492,0</id>
           <rel>1</rel>
+          <time>1901-11-23</time>
           <text>
               THE Chinese Exclusion Convention
               completed its labor? yesterday
@@ -211,6 +214,7 @@
       <result>
           <id>https://www.loc.gov/resource/sn85066387/1901-11-26/ed-1/?sp=12&amp;q=act+Chinese+exclusion&amp;r=-0.867,0.229,2.735,1.238,0</id>
           <rel>1</rel>
+          <time>1901-11-26</time>
           <text>
               COMMISSIONERS ABE NAMED.
               Chairman Geary Appoints Men to
@@ -268,6 +272,7 @@
       <result>
           <id>https://www.loc.gov/resource/46032385/1901-12-06/ed-1/?sp=1&amp;q=act+Chinese+exclusion&amp;r=-0.286,0.087,1.588,0.719,0</id>
           <rel>1</rel>
+          <time>1901-12-06</time>
           <text>
               The Yellow Peril.
               It will be necessary for the present congress
@@ -436,6 +441,7 @@
       <result>
           <id>https://www.loc.gov/resource/sn85066387/1902-04-17/ed-1/?sp=1&amp;q=CHINESE+Chinese+exclusion+EXCLUSION</id>
           <rel>1</rel>
+          <time>1902-04-17</time>
           <text>
               The Senate failed to substitute' the
               enacting clause 'of the House bill; for th'e
@@ -468,6 +474,7 @@
       <result>
           <id>https://www.loc.gov/resource/sn87065462/1905-06-21/ed-1/?sp=7&amp;q=Act+Chinese+Exclusion&amp;r=-0.236,0.666,0.858,0.389,0</id>
           <rel>1</rel>
+          <time>1905-06-21</time>
           <text>
               President Roosevelt is reported
               to be very indignant because the
@@ -526,6 +533,7 @@
       <result>
           <id>https://www.loc.gov/resource/sn84024827/1905-06-30/ed-1/?sp=4&amp;q=ACT+act+Chinese+CHINESE+exclusion+EXCLUSION&amp;r=-0.163,0.262,1.084,0.491,0</id>
           <rel>1</rel>
+          <time>1905-06-30</time>
           <text>
               THE CHINESE
               EXCLUSION ACT.
@@ -625,6 +633,7 @@
       <result>
           <id>https://www.loc.gov/resource/sn85042462/1905-07-21/ed-1/?sp=9&amp;q=Chinese+CHINESE+Exclusion+EXCLUSION+exclusion</id>
           <rel>1</rel>
+          <time>1905-07-21</time>
           <text>
               CHINESE SCORES
               EXCLUSION LAW
@@ -703,6 +712,7 @@
       <result>
           <id>https://www.loc.gov/resource/sn86063381/1906-01-10/ed-1/?sp=1&amp;q=act+Chinese+exclusion&amp;r=-0.264,0.404,1.184,0.536,0</id>
           <rel>1</rel>
+          <time>1906-01-10</time>
           <text>
               EXCLUSION LAW IS VALID
               COURT OF APPEALS DECLARES
@@ -747,12 +757,9 @@
       </result>
       <!-- five additional -->
       <result>
-          <id>https://www.loc.gov/resource/sn84036162/1904-08-25/ed-1/?sp=4&amp;q=chinese+exclusion+act&amp;r=-0.052,0.327,1.353,0.613,0</id>
-          <rel>0</rel>
-      </result>
-      <result>
           <id>https://www.loc.gov/resource/sn86076200/1901-08-03/ed-1/?sp=1&amp;q=chinese+exclusion+act&amp;r=0.053,0.18,0.768,0.348,0</id>
           <rel>1</rel>
+          <time>1901-08-03</time>
           <text>
               CHINESE EXCLUSION.
               Miners' I nlon Petition* tor
@@ -806,16 +813,9 @@
           </text>
       </result>
       <result>
-          <id>https://www.loc.gov/resource/sn99062049/1905-07-14/ed-1/?sp=4&amp;q=chinese+exclusion+act&amp;r=-1.255,-0.08,3.51,1.592,0</id>
-          <rel>0</rel>
-      </result>
-      <result>
-          <id>https://www.loc.gov/resource/sn85047211/1905-03-01/ed-1/?sp=7&amp;q=chinese+exclusion+act&amp;r=0.109,0.413,1.375,0.624,0</id>
-          <rel>0</rel>
-      </result>
-      <result>
           <id>https://www.loc.gov/resource/sn83025308/1892-01-30/ed-1/?sp=5&amp;q=chinese+exclusion+act</id>
           <rel>1</rel>
+          <time>1892-01-30</time>
           <text>
               Numesaous li gned' Petit ia. Asbklnll Con
               srqps to Pasil a stringent ExclusIon

@@ -5,6 +5,7 @@
             <id>
                 https://www.loc.gov/resource/sn83025121/1889-04-02/ed-1/?sp=8&amp;q=Eiffel+Tower+France+French+Paris+Worlds+Fair&amp;st=text&amp;r=-0.058,0,1.116,1.41,0</id>
             <rel>1</rel>
+            <time>1889-04-02</time>
             <text>THE EIFFEL TOWER
                 A Msht and Sensation for lisitor to
                 1arls
@@ -93,6 +94,7 @@
             <id>
                 https://www.loc.gov/resource/sn91068084/1889-04-26/ed-1/?sp=5&amp;q=Eiffel+Tower+Paris+Exhibition+1000+Feet+High+France+French+Worlds+Fair&amp;st=text&amp;r=-0.335,-0.303,1.669,2.11,0</id>
             <rel>1</rel>
+            <time>1889-04-26</time>
             <text>NEARLY 1000 FEET HIG&amp;
                 The Great Eiffel Tower at the
                 Paris Exposition.
@@ -205,6 +207,7 @@
             <id>
                 https://www.loc.gov/resource/sn87060190/1889-05-07/ed-1/?sp=4&amp;q=Eiffel+Tower+Paris+France+French+Expo+Exhibition+Worlds+Fair&amp;st=text&amp;r=-0.038,-0.005,1.195,1.611,0</id>
             <rel>1</rel>
+            <time>1889-05-07</time>
             <text>Pxitia, May At 3 o'clock Sunday after
                 noon, M. Carnot, presidont of tho Ropublic,
                 soaompaniod by a number of ominont states
@@ -305,6 +308,7 @@
             <id>
                 https://www.loc.gov/resource/sn85032018/1894-01-31/ed-1/?sp=15&amp;q=Eiffel+Tower+Paris+France+French+Worlds+Fair+1900+Exhibition&amp;st=text&amp;r=-0.304,-0.08,1.608,1.608,0</id>
             <rel>1</rel>
+            <time>1894-01-31</time>
             <text>The World's lair in 1900.
                 Already the air is' filled with rumors
                 respecting the exposition of 1900, says
@@ -460,6 +464,7 @@
             <id>
                 https://www.loc.gov/resource/sn83040198/1899-02-03/ed-1/?sp=7&amp;q=Eiffel+Tower+France+French+Paris+Exhibition+Worlds+Fair+Ladder+Clouds&amp;st=text&amp;r=-0.241,-0.074,1.483,1.483,0</id>
             <rel>1</rel>
+            <time>1899-02-03</time>
             <text>A LADDER FROM THE CLOUDS
                 Bach Will Be the Appearance of the
                 Eiffel Tower of Parts When
@@ -556,6 +561,7 @@
             <id>
                 https://www.loc.gov/resource/sn90059523/1903-10-25/ed-1/?sp=24&amp;q=Eiffel+Tower+Doomed+Rocks+Wind+Paris+France+French+Gustav&amp;st=text&amp;r=-0.216,-0.072,1.431,1.431,0</id>
             <rel>1</rel>
+            <time>1903-10-25</time>
             <text>THE Eiffel Tower must come down.
                 The authorities of Paris have so decreed.
                 This iron spire, the tallest structure in the
@@ -629,6 +635,7 @@
         <result>
             <id>https://chroniclingamerica.loc.gov/lccn/sn83045487/1917-04-23/ed-1/seq-5/ocr/</id>
             <rel>1</rel>
+            <time>1917-04-23</time>
             <text>Paris. Stars and stripes hung be
                 side tri-color on Eiffel tower Sunday,
                 afternoon, while formal salute of 21
@@ -646,6 +653,7 @@
             <id>
                 https://www.loc.gov/resource/sn83045462/1907-05-18/ed-1/?sp=26&amp;q=Dangerous+Painting+World+Eiffel+Tower+Paris+France+French+Republic+Gustav&amp;st=text&amp;r=-0.149,-0.412,1.111,2.36,0</id>
             <rel>1</rel>
+            <time>1907-05-18</time>
             <text>The Trocadero m Seen Through the
                 "Lege" of the Tower.
                 Height of the Great Tower
@@ -778,6 +786,7 @@
         <result>
             <id>https://chroniclingamerica.loc.gov/lccn/sn83045462/1912-09-14/ed-1/seq-23/ocr/</id>
             <rel>1</rel>
+            <time>1912-09-14</time>
             <text>IParis
                 fV
                 Birdseye View of Paris Taken From the Top of the Eiffel Tower. In the Distance
@@ -787,39 +796,6 @@
                 (PHOTOGRAPH BY COURTESY OF NEWMAN TRAVELTALKS.)
 
             </text>
-        </result>
-        <result>
-            <id>
-                https://www.loc.gov/resource/sn83030214/1900-05-20/ed-1/?sp=43&amp;q=Feet+Tower+Eiffel+Paris+France+French+Worlds+Fair+Exhibition&amp;st=text&amp;r=-0.322,-0.082,1.644,1.644,0</id>
-            <rel>0</rel>
-            <text></text>
-        </result>
-        <result>
-            <id>
-                https://www.loc.gov/resource/sn85033162/1900-05-18/ed-1/?sp=3&amp;q=Paris+Exposition&amp;st=text&amp;r=-0.372,-0.087,1.744,1.744,0</id>
-            <rel>0</rel>
-            <text></text>
-        </result>
-        <result>
-            <id>
-                https://www.loc.gov/resource/sn84026749/1907-03-10/ed-1/?sp=47&amp;q=Eiffel+Tower+Gustav+Paris+France+French+Republic&amp;r=-0.196,0.586,0.858,0.578,0&amp;st=text</id>
-            <rel>0</rel>
-            <text></text>
-        </result>
-        <result>
-            <id>https://chroniclingamerica.loc.gov/lccn/sn83045487/1912-09-14/ed-1/seq-23/ocr/</id>
-            <rel>0</rel>
-            <text></text>
-        </result>
-        <result>
-            <id>https://chroniclingamerica.loc.gov/lccn/sn85066387/1912-04-28/ed-1/seq-8/ocr/</id>
-            <rel>0</rel>
-            <text></text>
-        </result>
-        <result>
-            <id>https://chroniclingamerica.loc.gov/lccn/sn83045462/1954-05-23/ed-1/seq-123/ocr/</id>
-            <rel>0</rel>
-            <text></text>
         </result>
     </results>
 </topic>

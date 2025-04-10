@@ -5,6 +5,7 @@
         <id>
           https://www.loc.gov/resource/sn85032490/1887-04-17/ed-1/?sp=10&amp;q=Death+Dynamo+Electric+Chair+Capital+Punishment&amp;st=image&amp;r=-0.267,-0.077,1.535,1.535,0</id>
         <rel>1</rel>
+        <time>1887-04-17</time>
         <text>
           "If the law i3 changed from hanging to
           death by electricity then it should and
@@ -101,6 +102,7 @@
         <id>
           https://www.loc.gov/resource/sn86075267/1888-12-13/ed-1/?sp=2&amp;q=Electrical+Electric+Chair+Capital+Punishment+Killing+Electricity+murderers+lightning</id>
         <rel>1</rel>
+        <time>1888-12-13</time>
         <text>
           APTAN PROPOSED.
           gow Will Electrical Execu
@@ -257,11 +259,11 @@
           electricity is the thing to do the business.
         </text>
       </result>
-
       <result>
         <id>
           https://www.loc.gov/resource/sn86075267/1888-12-13/ed-1/?sp=2&amp;q=Electrical+Electric+Chair+Capital+Punishment+Killing+Electricity+murderers+lightning&amp;st=text&amp;r=-0.248,-0.075,1.496,1.496,0</id>
         <rel>1</rel>
+        <time>1888-12-13</time>
         <text>
           APTAN PROPOSED.
           gow Will Electrical Execu
@@ -417,11 +419,11 @@
           HE LET HIMSELF DROP.
         </text>
       </result>
-
       <result>
         <id>
           https://www.loc.gov/resource/sn84025891/1895-09-07/ed-1/?sp=4&amp;q=Lizzie+Halliday+Lunatic+Asylum+Murder+Electricity&amp;st=image&amp;r=-0.306,-0.081,1.611,1.611,0</id>
         <rel>1</rel>
+        <time>1895-09-07</time>
         <text>
           She next stole a horse. She was sent
           to an insane asylum, but discharged as
@@ -449,18 +451,11 @@
           the lunatic asylum at Matteawan.
         </text>
       </result>
-
-      <result>
-        <id>
-          https://www.loc.gov/resource/sn83016758/1899-06-01/ed-1/?sp=3&amp;q=Death+Chair+Penalty+Capital+Punishment+Murder</id>
-        <rel>0</rel>
-
-      </result>
-
       <result>
         <id>
           https://www.loc.gov/resource/sn84028140/1901-10-29/ed-1/?sp=1&amp;q=Repentance+Czolgosz+Electric+Chair+Electrocuted+Deadly+Current</id>
         <rel>1</rel>
+        <time>1901-10-29</time>
         <text>
           In the Electric Chair.
           Cowardice Quivered on His Lips, But Unsustained by Prayer or Hope of Eter
@@ -510,11 +505,11 @@
           tpt his soiuV
         </text>
       </result>
-
       <result>
         <id>
           https://www.loc.gov/resource/sn83030193/1903-10-01/ed-1/?sp=1&amp;q=Chair+Fifteen+Minutes+Van+Wormers+Electrocuted+Willis+Frederick+Burton+Electric</id>
         <rel>1</rel>
+        <time>1903-10-01</time>
         <text>
           3 VAN WORMERS J
           J
@@ -592,11 +587,11 @@
           WILLIS LED TO HIS DOOM
         </text>
       </result>
-
       <result>
         <id>
           https://www.loc.gov/resource/sn84024827/1912-08-11/ed-1/?sp=12&amp;q=Victims+Death+Chair+Execution+Electric+Executed+Electricity</id>
         <rel>1</rel>
+        <time>1912-08-11</time>
         <text>
           Aug. 10- Twenty-two
           jears ago this week, on August C,
@@ -645,11 +640,11 @@
           County, on Nov 9, 1911.
         </text>
       </result>
-
       <result>
         <id>
           https://www.loc.gov/resource/sn86061215/1915-07-31/ed-1/?sp=8&amp;q=Death+Electric+Chair+Electrocuted+Executed+Execution+Murdered+Rosenthal</id>
         <rel>1</rel>
+        <time>1915-07-31</time>
         <text>
           BECKER IS EXECUTED
           WITH PRAYER ON LIPS
@@ -837,6 +832,7 @@
         <id>
           https://www.loc.gov/resource/sn83045389/1916-03-05/ed-1/?sp=48&amp;q=Die+Death+Electric+Chair+Electrocution+Electricity</id>
         <rel>1</rel>
+        <time>1916-03-05</time>
         <text>
           Scientists Have Just Discovered
           Many Secrets Which Have Long
@@ -901,18 +897,9 @@
       </result>
       <!-- 5 Extra Documents -->
       <result>
-        <id>https://www.loc.gov/resource/sn83035682/1959-04-30/ed-1/?sp=13&amp;q=electric+chair</id>
-        <rel>0</rel>
-      </result>
-
-      <result>
-        <id>https://www.loc.gov/resource/sn85038220/1947-04-07/ed-1/?sp=5&amp;q=electric+chair</id>
-        <rel>0</rel>
-      </result>
-
-      <result>
         <id>https://www.loc.gov/resource/sn86090369/1911-11-24/ed-1/?sp=1&amp;q=death+chair</id>
         <rel>1</rel>
+        <time>1911-11-24</time>
         <text>
           F. P. SMITH BEATTIE DIES IN
           ELECTRIC CHAIR
@@ -993,10 +980,10 @@
           to receive the deadly current.
         </text>
       </result>
-
       <result>
         <id>https://www.loc.gov/resource/sn83045462/1947-02-25/ed-1/?sp=26&amp;q=death+chair</id>
         <rel>1</rel>
+        <time>1947-02-25</time>
         <text>
           Sullivan Asked to Aid Youth
           Who Survived Death Chair
@@ -1031,10 +1018,10 @@
           j again to execute him.
         </text>
       </result>
-
       <result>
         <id>https://www.loc.gov/resource/sn83030193/1903-05-25/ed-1/?sp=3&amp;q=death+chair</id>
         <rel>1</rel>
+        <time>1903-05-25</time>
         <text>
           HARDEST MAN IN
           WORLD TO KILL
@@ -1093,6 +1080,5 @@
           tinct
         </text>
       </result>
-
     </results>
   </topic>
