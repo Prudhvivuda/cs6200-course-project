@@ -4,7 +4,7 @@
       <!-- article 1 -->
       <result>
 	      <id>https://www.loc.gov/resource/sn88068010/1899-07-28/ed-1/?sp=3&amp;q=Curie+radium</id>
-	      <rel>1</rel>
+	      <rel>1</rel><time>December 1898 :	Marie Curie, along with her husband, discover new elements “polonium” and “radium”</time>
 	      <text>
         Another cw Klement.
         Three French chemists M. and
@@ -25,7 +25,7 @@
       <!-- article 2 -->
       <result>
 	      <id>https://www.loc.gov/resource/sn83030214/1899-12-17/ed-1/?sp=8&amp;q=Curie+Curies+polonium+Polonium</id>
-	      <rel>1</rel>
+	      <rel>1</rel><time>December 1898 :	Marie Curie, along with her husband, discover new elements “polonium” and “radium”</time>
 	      <text>ELEMENT.
         Si"* or fight permanent additions to the list
         of .?hemic.?] elementa hav.? been made within
@@ -36,7 +36,7 @@
         ?.neil a ?peculiar degree of inter.'st. becauee it
         afforded fr. sh evidence that ti,?? .earth ami sun
         .in* mail?- ?if suli-t.nitially the same materials.
-        Still. i?> ?me hal yel found any DM for helium
+        Still. i? ?me hal yel found any DM for helium
         I, waa a little itartUng to learn, as the world
         did from EUmaay'l isolation of argon, that the
         atmosphere contained one more "oiisiltnent
@@ -121,7 +121,7 @@
       <!-- article 3 -->
       <result>
         <id>https://www.loc.gov/resource/sn85066387/1899-12-31/ed-1/?sp=23&amp;q=Curie+Curies+radium</id>
-        <rel>1</rel>
+        <rel>1</rel><time>December 1898 :	Marie Curie, along with her husband, discover new elements “polonium” and “radium”</time>
         <text>
         TI-jE CATHODE RAY OUTDONE.
         WHEN the marvels of the cathode or X ray
@@ -189,7 +189,7 @@
       <!-- article 4 -->
       <result>
         <id>https://www.loc.gov/resource/sn88085421/1907-05-13/ed-1/?sp=2&amp;q=Curie+Marie+Sklodowska</id>
-        <rel>1</rel>
+        <rel>1</rel><time>1907-05-13 : Curie becomes first woman faculty member</time>
         <text>
         WomenWhoDo
         The First Woman Professor In the
@@ -239,7 +239,7 @@
       <!-- article 5 -->
       <result>
         <id>https://www.loc.gov/resource/sn85047084/1910-05-15/ed-1/?sp=14&amp;q=Curie+CURIE+Marie+Sklodowska</id>
-        <rel>1</rel>
+        <rel>1</rel><time>BLNK</time>
         <text>
         MME CURIE, DISCOVERER OF RADIUM AND P0L0NIUM;!j
         I ji a I
@@ -315,7 +315,7 @@
       <!-- article 6 -->
       <result>
         <id>https://www.loc.gov/resource/sn83045396/1911-12-11/ed-1/?sp=1&amp;q=Curie+Marie+Nobel+NOBEL+prize</id>
-        <rel>1</rel>
+        <rel>1</rel><time>December, 1903 : Curie and her husband are awarded the Nobel Prize in Physics.</time>
         <text>
         NOBEL PIES ARE
         GIVEN MINERS
@@ -334,7 +334,7 @@
       <!-- article 7 -->
       <result>
         <id>https://www.loc.gov/resource/sn85066387/1911-11-08/ed-1/?sp=1&amp;q=Curie+Marie+NOBEL+Nobel+prize+Prize+Prizes+prizes</id>
-        <rel>1</rel>
+        <rel>1</rel><time>December, 1903 : Curie and her husband are awarded the Nobel Prize in Physics.</time>
         <text>
         WOMAN WINS NOBEL
         CHEMISTRY AWARD
@@ -363,7 +363,7 @@
       <!-- article 8 -->
       <result>
         <id>https://www.loc.gov/resource/sn84024827/1912-05-02/ed-1/?sp=5&amp;q=Curie+DISCOVERIES+discoveries+Discovery+Marie+radium</id>
-        <rel>1</rel>
+        <rel>1</rel><time>December, 1903 : Curie and her husband are awarded the Nobel Prize in Physics.</time>
         <text>
         MME. C URIE. NOTED FRENCH SCIENTIST,
         WINS NOBEL PRIZE FOR DISCOVERIES
@@ -378,7 +378,7 @@
       <!-- article 9 -->
       <result>
         <id>https://www.loc.gov/resource/sn84026749/1921-03-13/ed-1/?sp=1&amp;q=Curie+Marie</id>
-        <rel>1</rel>
+        <rel>1</rel><time>May, 1921 :	Curie is presented with 1 gram of radium by US President Warren Harding at the White House.</time>
         <text>
         Madame Marie Curie, discoverer
         0t radium and 46blest woman in
@@ -485,7 +485,7 @@
       <!-- article 10 -->
       <result>
         <id>https://www.loc.gov/resource/sn86063381/1921-04-05/ed-1/?sp=2&amp;q=Curie+Marie+radium</id>
-        <rel>1</rel>
+        <rel>1</rel><time>May, 1921 :	Curie is presented with 1 gram of radium by US President Warren Harding at the White House.</time>
         <text>
         AN IMMORTAL WOMAN
         The visit of Madam Marie Curie to this country in May
@@ -527,17 +527,17 @@
       <!-- article 11 -->
       <result>
         <id>https://www.loc.gov/resource/sn88085523/1899-11-02/ed-1/?sp=14&amp;q=Marie+Curie</id>
-        <rel>0</rel>
+        <rel>0</rel><time>BLNNK</time>
       </result>
       <!-- article 12 -->
       <result>
         <id>https://www.loc.gov/resource/sn86063592/1899-12-21/ed-1/?sp=3&amp;q=Marie+Curie</id>
-        <rel>0</rel>
+        <rel>0</rel><time>BLNK</time>
       </result>
       <!-- article 13 -->
       <result>
         <id>https://www.loc.gov/resource/sn92066979/1911-11-21/ed-1/?sp=8&amp;q=Marie+Curie+radium+Nobel+Prize</id>
-        <rel>1</rel>
+        <rel>1</rel><time>December, 1903 : Curie and her husband are awarded the Nobel Prize in Physics.</time>
         <text>
         MME. CURIE.
         Distinguished Scientist Who Was
@@ -581,7 +581,7 @@
       <!-- article 14 -->
       <result>
         <id>https://www.loc.gov/resource/sn90060976/1911-11-18/ed-1/?sp=1&amp;q=Marie+Curie+radium+Nobel+Prize</id>
-        <rel>1</rel>
+        <rel>1</rel><time>December, 1903 : Curie and her husband are awarded the Nobel Prize in Physics.</time>
         <text>CATHOLIC WOMAN
         SCIENTIST HONORED
         Nobel Prizes for Chemistry Awarded
@@ -640,7 +640,7 @@
       <!-- article 15 -->
       <result>
         <id>https://www.loc.gov/resource/sn84045439/1899-11-30/ed-1/?sp=5&amp;q=Marie+Curie</id>
-        <rel>0</rel>
+        <rel>0</rel><time>BLNK</time>
       </result>
     </results>
   </topic>

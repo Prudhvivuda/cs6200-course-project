@@ -4,7 +4,7 @@
     <results>
       <result>
         <id>https://www.loc.gov/resource/sn85058130/1890-04-01/ed-1/?sp=1&amp;st=text</id>
-        <rel>1</rel>
+        <rel>1</rel><time>March, 1890 : Congress appropriates $75,000 to build an immigration station at Ellis Island.</time>
         <text>
           Springer introduced a joint resolution to
           retire N P Banks with the rank of major
@@ -19,7 +19,7 @@
       </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83030214/1890-04-06/ed-1/seq-13/ocr/</id>
-        <rel>1</rel>
+        <rel>1</rel><time>March, 1890 : Congress appropriates $75,000 to build an immigration station at Ellis Island.</time>
         <text>
           A VOTE POR ELLIS ISLAND.
           THE HOUSE PASSES THK SEN.VTE JOIXT
@@ -105,7 +105,7 @@
       </result>
       <result>
         <id>https://www.loc.gov/resource/sn90059522/1892-01-02/ed-1/?sp=2&amp;st=text</id>
-        <rel>1</rel>
+        <rel>1</rel><time>January 1, 1892 :	The immigration station at Ellis Island officially opens.</time>
         <text>
           Immigrants Will Hereafter Land
           at Ellis Island.
@@ -135,7 +135,7 @@
       </result>
       <result>
         <id>https://www.loc.gov/resource/sn85066387/1897-06-15/ed-1/?sp=1&amp;st=text</id>
-        <rel>1</rel>
+        <rel>1</rel><time>June 15, 1897	: Fire destroys station and records of immigrants back to 1840.</time>
         <text>
           FEDERAL
           BUILDINGS
@@ -297,7 +297,7 @@
       </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83030214/1900-07-15/ed-1/seq-29/ocr/</id>
-        <rel>1</rel>
+        <rel>1</rel><time>December 1900 :	The new and currently standing main building opens at a cost of $1.5 million.</time>
         <text>
           THE FINE NEW IMMIGRANTSTATION ON
           ELLIS ISLAND—TO BE FINISHED
@@ -359,7 +359,7 @@
       </result>
       <result>
         <id>https://www.loc.gov/resource/sn83030214/1900-12-17/ed-1/?sp=3&amp;st=text</id>
-        <rel>1</rel>
+        <rel>1</rel><time>December, 1900 :	The new and currently standing main building opens at a cost of $1.5 million.</time>
         <text>
           iGAIN AT ELLIS ISLAND.
           IMMIGRANT STATION TO BE
@@ -468,7 +468,7 @@
       </result>
       <result>
         <id>https://www.loc.gov/resource/sn83030214/1907-12-16/ed-1/?sp=3&amp;st=text</id>
-        <rel>1</rel>
+        <rel>1</rel><time>December, 1907 : Ellis Island has peak number of immigrants arrive.</time>
         <text>
           In a discussion of the new Immigration act Com
           tnisriiiiii 1 Sargent strongly urges that advantage
@@ -543,7 +543,7 @@
       </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83016244/1954-11-15/ed-1/seq-9/ocr/</id>
-        <rel>1</rel>
+        <rel>1</rel><time>November, 1954 :	Ellis Island ends immigration operations.</time>
         <text>
           Ellis Island
           Ends Operations
@@ -567,15 +567,15 @@
       <!-- 5 additional topics -->
       <result>
         <id>https://www.loc.gov/resource/sn83016244/1941-06-17/ed-1/?sp=7&amp;q=Island&amp;st=text&amp;r=-0.213,-0.071,1.427,1.427,0</id>
-        <rel>0</rel>
+        <rel>0</rel><time>BLNK</time>
       </result>
       <result>
         <id>https://www.loc.gov/resource/sn87075213/1901-04-06/ed-1/?sp=6&amp;q=Island&amp;r=-0.835,-0.112,2.671,1.433,0</id>
-        <rel>0</rel>
+        <rel>0</rel><time>BLNK</time>
       </result>
       <result>
         <id>https://www.loc.gov/resource/sn84026897/1895-11-27/ed-1/?sp=2&amp;q=Island&amp;st=text&amp;r=-0.28,-0.078,1.56,1.56,0</id>
-        <rel>1</rel>
+        <rel>1</rel><time>January 1, 1892 :	The immigration station at Ellis Island officially opens.</time>
         <text>
           ELLIS ISLAND.
           UNCLE S AM'S G ATE WAY FOR THE
@@ -860,11 +860,11 @@
       </result>
       <result>
         <id>https://www.loc.gov/resource/sn86063952/1902-08-09/ed-1/?sp=3&amp;q=Island&amp;st=text&amp;r=-0.289,-0.079,1.577,1.577,0</id>
-        <rel>0</rel>
+        <rel>0</rel><time>BLNK</time>
       </result>
       <result>
         <id>https://www.loc.gov/resource/sn93050700/1901-03-11/ed-1/?sp=4&amp;q=Island&amp;st=text&amp;r=-0.361,-0.086,1.721,1.721,0</id>
-        <rel>0</rel>
+        <rel>0</rel><time>BLNK</time>
       </result>
     </results>
   </topic>

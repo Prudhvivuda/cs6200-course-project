@@ -3,11 +3,11 @@
     <results>
       <result>
 	<id>https://www.loc.gov/resource/sn84026749/1906-01-07/ed-1/?sp=43</id>
-	<rel>0</rel>
+	<rel>0</rel><time>BLNK</time>
       </result>
       <result>
 	<id>https://www.loc.gov/resource/sn84026749/1906-09-29/ed-1/?sp=5</id>
-	<rel>1</rel>
+	<rel>1</rel><time>September 29, 1906 : Houdini escapes from a piano box.</time>
 	<text>PIANO BOX FAILED FAILEDTO FAILEDTO
 TO HOLD HOLDHOUDiNI HOLDHOUDiNIMter HOUDINI HOUDINIAlter
 After flftyaeven minutes confinement confinementIn
@@ -90,11 +90,11 @@ of f the th hardest Jobs he had ever under underIt undertlkfn underttkfl
       </result>
       <result>
 	<id>https://www.loc.gov/resource/sn85066387/1907-09-01/ed-1/?sp=36</id>
-	<rel>0</rel>
+	<rel>0</rel><time>BLNK</time>
       </result>
       <result>
 	<id>https://www.loc.gov/resource/sn85042462/1907-09-23/ed-1/?sp=6</id>
-	<rel>1</rel>
+	<rel>1</rel><time>January 7, 1906 : Houdini escapes from a Washington, DC jail.</time>
 	<text>WIZARD TOYS
 WITH POLICE
 HOUDINI HAS FUN AT JAILERS
@@ -150,7 +150,7 @@ not been accepted.</text>
       </result>
       <result>
 	<id>https://www.loc.gov/resource/sn85042462/1907-09-29/ed-1/?sp=5</id>
-	<rel>1</rel>
+	<rel>1</rel><time>September 29, 1907 : Houdini leaps into a lake heavily handcuffed and shackled, escaping death. He writes about his life and career in a full page spread.</time>
 	<text>CROWD HAS
 WILD THRILLS
 HANDCUFFED MAN LEAPS INTO
@@ -246,7 +246,7 @@ of the lake.</text>
       </result>
       <result>
 	<id>https://www.loc.gov/resource/sn83030214/1914-07-16/ed-1/?sp=16</id>
-	<rel></rel>
+	<rel></rel><time>July 16, 1914 : Shackled Houdini escapes from a box after being thrown into the water.</time>
 	<text>CROWD OF 15.000
 WATCHES HOUDINI
 Handcuff Expert, Shackled and
@@ -289,11 +289,11 @@ art genius.</text>
       </result>
       <result>
 	<id>https://www.loc.gov/resource/sn83030214/1914-07-16/ed-1/?sp=16</id>
-	<rel>0</rel>
+	<rel>0</rel><time>BLNK</time>
       </result>
       <result>
 	<id>https://www.loc.gov/resource/sn84026749/1916-04-18/ed-1/?sp=1</id>
-	<rel>1</rel>
+	<rel>1</rel><time>April 18, 1916 : Houdini is set to perform his legendary straitjacket trick 100 feet in air.</time>
 	<text>Houdini to Be Hanged
 In Strait jacket at High
 Noon Here Tomorrow
@@ -391,29 +391,27 @@ cant get nway.</text>
       </result>
       <result>
 	<id>https://www.loc.gov/resource/sn83030214/1918-01-06/ed-1/?sp=34</id>
-	<rel>0</rel>
-	<text>LINK NOT WORKING</text>
+	<rel>0</rel><time>BLNK</time>
       </result>
       <result>
 	<id>https://www.loc.gov/resource/sn83030214/1919-12-28/ed-1/?sp=34</id>
-	<rel>0</rel>
-	<text>LINK NOT WORKING</text>
+	<rel>0</rel><time>BLNK</time>
       </result>
 	<result>
 	<id>https://www.loc.gov/resource/sn86090862/1958-10-10/ed-1/?sp=3</id>
-	<rel>0</rel>
+	<rel>0</rel><time>BLNK</time>
       </result>
 	<result>
 	<id>https://www.loc.gov/resource/sn78000090/1951-11-16/ed-1/?sp=8</id>
-	<rel>0</rel>
+	<rel>0</rel><time>BLNK</time>
       </result>
 	<result>
 	<id>https://www.loc.gov/resource/sn78000090/1952-10-03/ed-1/?sp=9</id>
-	<rel>0</rel>
+	<rel>0</rel><time>BLNK</time>
       </result>
 	<result>
 	<id>https://www.loc.gov/resource/sn88063294/1944-08-27/ed-1/?sp=89</id>
-	<rel>1</rel>
+	<rel>0</rel><time>BLNK</time>
 	<text>VAUDEVILLES GREATEST
 What act was vaudevilles greatest attraction?
 None other than Harry Houdini, The Handcuff
@@ -433,7 +431,7 @@ get out of the knot. Houdini wouldnt try it.</text>
       </result>
 	<result>
 	<id>https://www.loc.gov/resource/sn84024808/1920-07-19/ed-1/?sp=3</id>
-	<rel>1</rel>
+	<rel>1</rel><time>December 28, 1919 : Houdini preserves his tricks on film for prosperity.</time>
 	<text>Houdini Is Baffled
 by His Own Trunk;
 Locksmith Called
