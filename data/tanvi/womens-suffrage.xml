@@ -2,32 +2,32 @@
   <id>https://guides.loc.gov/chronicling-america-19th-amendment</id>
   <results>
     <result>
-      <id>https://www.loc.gov/resource/sn85058130/1890-03-27/ed-1/?sp=1&q=Discussing+suffrage</id>
+      <id>https://www.loc.gov/resource/sn85058130/1890-03-27/ed-1/?sp=1&amp;q=Discussing+suffrage</id>
       <rel>0</rel>
       <text></text>
     </result>
     <result>
-      <id>https://www.loc.gov/resource/sn85066387/1895-05-21/ed-1/?sp=4&q=Womans+Congress+Pacific+Coast&r=0.239,0.02,0.739,0.346,0</id>
+      <id>https://www.loc.gov/resource/sn85066387/1895-05-21/ed-1/?sp=4&amp;q=Womans+Congress+Pacific+Coast&amp;r=0.239,0.02,0.739,0.346,0</id>
       <rel>0</rel>
       <text></text>
     </result>
     <result>
-      <id>https://www.loc.gov/resource/sn83045211/1916-11-11/ed-1/?sp=6&q=JEANNETTE+RANKIN&r=0.103,0.158,1.057,0.495,0</id>
+      <id>https://www.loc.gov/resource/sn83045211/1916-11-11/ed-1/?sp=6&amp;q=JEANNETTE+RANKIN&amp;r=0.103,0.158,1.057,0.495,0</id>
       <rel>0</rel>
       <text></text>
     </result>
     <result>
-      <id>https://www.loc.gov/resource/sn83045211/1917-09-04/ed-1/?sp=3&q=SUFFRAGE+BANNER&r=0.048,0.104,0.535,0.251,0</id>
+      <id>https://www.loc.gov/resource/sn83045211/1917-09-04/ed-1/?sp=3&amp;q=SUFFRAGE+BANNER&amp;r=0.048,0.104,0.535,0.251,0</id>
       <rel>0</rel>
       <text></text>
     </result>
     <result>
-      <id>https://www.loc.gov/resource/sn83045211/1917-11-12/ed-1/?sp=2&q=forty-one+arrested&r=0.182,0.056,0.761,0.356,0</id>
+      <id>https://www.loc.gov/resource/sn83045211/1917-11-12/ed-1/?sp=2&amp;q=forty-one+arrested&amp;r=0.182,0.056,0.761,0.356,0</id>
       <rel>0</rel>
       <text></text>
     </result>
     <result>
-      <id>https://www.loc.gov/resource/sn83030214/1920-08-19/ed-1/?sp=1&q=Suffrage+Ratification&r=0.19,0.286,0.837,0.392,0</id>
+      <id>https://www.loc.gov/resource/sn83030214/1920-08-19/ed-1/?sp=1&amp;q=Suffrage+Ratification&amp;r=0.19,0.286,0.837,0.392,0</id>
       <rel>1</rel>
       <time>August 26, 1920: After Tennessee becomes the thirty-sixth state to ratify the 19th Amendment, the Amendment is officially adopted and women are given the right to vote.</time>
       <text>27,000,000
@@ -194,7 +194,7 @@
         Fame.</text>
     </result>
     <result>
-      <id>https://www.loc.gov/resource/sn89066315/1920-08-26/ed-1/?sp=1&q=WOMENS+RIGHT+VOTE</id>
+      <id>https://www.loc.gov/resource/sn89066315/1920-08-26/ed-1/?sp=1&amp;q=WOMENS+RIGHT+VOTE</id>
       <rel>1</rel>
       <time>August 26, 1920: After Tennessee becomes the thirty-sixth state to ratify the 19th Amendment, the Amendment is officially adopted and women are given the right to vote.</time>
       <text>WOMEN'S RIGHT TO
@@ -247,12 +247,12 @@
     </result>
     <!-- Additional 5-->
     <result>
-      <id>https://chroniclingamerica.loc.gov/lccn/sn83045487/1917-03-12/ed-1/seq-24/#date1=1756&index=8&rows=20&words=SUFFRAGE+WOMEN&searchType=basic&sequence=0&state=&date2=1963&proxtext=women+suffrage&y=11&x=11&dateFilterType=yearRange&page=1</id>
+      <id>https://chroniclingamerica.loc.gov/lccn/sn83045487/1917-03-12/ed-1/seq-24/#date1=1756&amp;index=8&amp;rows=20&amp;words=SUFFRAGE+WOMEN&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=women+suffrage&amp;y=11&amp;x=11&amp;dateFilterType=yearRange&amp;page=1</id>
       <rel>0</rel>
       <text></text>
     </result>
     <result>
-      <id>https://chroniclingamerica.loc.gov/lccn/46032385/1913-08-01/ed-1/seq-21/#date1=1756&index=19&rows=20&words=suffrage+Suffrage+women+Women&searchType=basic&sequence=0&state=&date2=1963&proxtext=women+suffrage&y=11&x=11&dateFilterType=yearRange&page=1</id>
+      <id>https://chroniclingamerica.loc.gov/lccn/46032385/1913-08-01/ed-1/seq-21/#date1=1756&amp;index=19&amp;rows=20&amp;words=suffrage+Suffrage+women+Women&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=women+suffrage&amp;y=11&amp;x=11&amp;dateFilterType=yearRange&amp;page=1</id>
       <rel>1</rel>
       <time>1890: Wyoming enters the union with its suffrage laws intact, becoming the first state to allow women to vote.</time>
       <text>The suffrage movement in the
@@ -425,12 +425,12 @@
         it before.</text>
     </result>
     <result>
-      <id>https://chroniclingamerica.loc.gov/lccn/sn83045487/1912-11-15/ed-1/seq-25/#date1=1756&index=17&rows=20&words=suffrage+Suffrage+Women&searchType=basic&sequence=0&state=&date2=1963&proxtext=women+suffrage&y=11&x=11&dateFilterType=yearRange&page=1</id>
+      <id>https://chroniclingamerica.loc.gov/lccn/sn83045487/1912-11-15/ed-1/seq-25/#date1=1756&amp;index=17&amp;rows=20&amp;words=suffrage+Suffrage+Women&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=women+suffrage&amp;y=11&amp;x=11&amp;dateFilterType=yearRange&amp;page=1</id>
       <rel>0</rel>
       <text></text>
     </result>
     <result>
-      <id>https://chroniclingamerica.loc.gov/lccn/sn88064293/1918-11-04/ed-1/seq-3/#date1=1756&index=17&rows=20&words=Vote+VOTE+WOMEN+Women&searchType=basic&sequence=0&state=&date2=1963&proxtext=women+vote&y=0&x=0&dateFilterType=yearRange&page=1</id>
+      <id>https://chroniclingamerica.loc.gov/lccn/sn88064293/1918-11-04/ed-1/seq-3/#date1=1756&amp;index=17&amp;rows=20&amp;words=Vote+VOTE+WOMEN+Women&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=women+vote&amp;y=0&amp;x=0&amp;dateFilterType=yearRange&amp;page=1</id>
       <rel>1</rel>
       <time>1918: The House of Representatives passes a resolution for a woman suffrage amendment. The resolution is defeated in the Senate.</time>
       <text>Women
@@ -471,7 +471,7 @@
         Men Have It.</text>
     </result>
     <result>
-      <id>https://chroniclingamerica.loc.gov/lccn/sn89060379/1916-10-21/ed-1/seq-1/#date1=1756&sort=relevance&rows=20&words=VOTE+WOMEN&searchType=basic&sequence=0&index=6&state=&date2=1963&proxtext=women+vote&y=0&x=0&dateFilterType=yearRange&page=2</id>
+      <id>https://chroniclingamerica.loc.gov/lccn/sn89060379/1916-10-21/ed-1/seq-1/#date1=1756&amp;sort=relevance&amp;rows=20&amp;words=VOTE+WOMEN&amp;searchType=basic&amp;sequence=0&amp;index=6&amp;state=&amp;date2=1963&amp;proxtext=women+vote&amp;y=0&amp;x=0&amp;dateFilterType=yearRange&amp;page=2</id>
       <rel>1</rel>
       <time>No timeline match</time>
       <text>1 I
