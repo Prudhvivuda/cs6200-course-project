@@ -1,0 +1,541 @@
+topic_id,method,result_id,score
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,baseline,https://www.loc.gov/resource/sn85042462/1905-07-21/ed-1/?sp=9&q=Chinese+CHINESE+Exclusion+EXCLUSION+exclusion,12.106533317376373
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,baseline,"https://www.loc.gov/resource/sn85066387/1901-11-26/ed-1/?sp=12&q=act+Chinese+exclusion&r=-0.867,0.229,2.735,1.238,0",12.070651872234034
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,baseline,"https://www.loc.gov/resource/sn86063381/1906-01-10/ed-1/?sp=1&q=act+Chinese+exclusion&r=-0.264,0.404,1.184,0.536,0",11.421678506425831
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,baseline,"https://www.loc.gov/resource/sn86076200/1901-08-03/ed-1/?sp=1&q=chinese+exclusion+act&r=0.053,0.18,0.768,0.348,0",11.217432568475795
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,baseline,"https://www.loc.gov/resource/sn84024827/1905-06-30/ed-1/?sp=4&q=ACT+act+Chinese+CHINESE+exclusion+EXCLUSION&r=-0.163,0.262,1.084,0.491,0",10.640230928002282
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,baseline,https://www.loc.gov/resource/sn85066387/1901-11-22/ed-1/?sp=1&q=Act+act+Chinese+Exclusion+exclusion,10.590858985199189
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,baseline,"https://www.loc.gov/resource/sn87065462/1905-06-21/ed-1/?sp=7&q=Act+Chinese+Exclusion&r=-0.236,0.666,0.858,0.389,0",10.506320992418985
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,baseline,https://www.loc.gov/resource/sn83025308/1892-01-30/ed-1/?sp=5&q=chinese+exclusion+act,10.099392300985475
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,baseline,"https://www.loc.gov/resource/46032385/1901-12-06/ed-1/?sp=1&q=act+Chinese+exclusion&r=-0.286,0.087,1.588,0.719,0",9.645555926504152
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,baseline,"https://www.loc.gov/resource/sn85066387/1901-11-23/ed-1/?sp=1&q=Chinese+CHINESE+exclusion+EXCLUSION+Exclusion&r=-1.148,-0.005,3.296,1.492,0",9.10745940452125
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf,"https://www.loc.gov/resource/sn86076200/1901-08-03/ed-1/?sp=1&q=chinese+exclusion+act&r=0.053,0.18,0.768,0.348,0",28.56836311210793
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf,"https://www.loc.gov/resource/sn85066387/1901-11-26/ed-1/?sp=12&q=act+Chinese+exclusion&r=-0.867,0.229,2.735,1.238,0",23.027381788485826
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf,https://www.loc.gov/resource/sn83025308/1892-01-30/ed-1/?sp=5&q=chinese+exclusion+act,21.324416936743994
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf,https://www.loc.gov/resource/sn85042462/1905-07-21/ed-1/?sp=9&q=Chinese+CHINESE+Exclusion+EXCLUSION+exclusion,18.791800876875417
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf,https://www.loc.gov/resource/sn85066387/1901-11-22/ed-1/?sp=1&q=Act+act+Chinese+Exclusion+exclusion,18.430839253533286
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf,"https://www.loc.gov/resource/46032385/1901-12-06/ed-1/?sp=1&q=act+Chinese+exclusion&r=-0.286,0.087,1.588,0.719,0",17.60715420240085
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf,"https://www.loc.gov/resource/sn84024827/1905-06-30/ed-1/?sp=4&q=ACT+act+Chinese+CHINESE+exclusion+EXCLUSION&r=-0.163,0.262,1.084,0.491,0",17.206973503836327
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf,"https://www.loc.gov/resource/sn85066387/1901-11-23/ed-1/?sp=1&q=Chinese+CHINESE+exclusion+EXCLUSION+Exclusion&r=-1.148,-0.005,3.296,1.492,0",15.885875101870766
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf,"https://www.loc.gov/resource/sn86063381/1906-01-10/ed-1/?sp=1&q=act+Chinese+exclusion&r=-0.264,0.404,1.184,0.536,0",11.421678506425831
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf,https://www.loc.gov/resource/sn85066387/1902-04-17/ed-1/?sp=1&q=CHINESE+Chinese+exclusion+EXCLUSION,11.41915887334983
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf_with_expansion,"https://www.loc.gov/resource/sn86076200/1901-08-03/ed-1/?sp=1&q=chinese+exclusion+act&r=0.053,0.18,0.768,0.348,0",28.56836311210793
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf_with_expansion,"https://www.loc.gov/resource/sn85066387/1901-11-26/ed-1/?sp=12&q=act+Chinese+exclusion&r=-0.867,0.229,2.735,1.238,0",23.027381788485826
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf_with_expansion,https://www.loc.gov/resource/sn83025308/1892-01-30/ed-1/?sp=5&q=chinese+exclusion+act,21.324416936743994
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf_with_expansion,https://www.loc.gov/resource/sn85042462/1905-07-21/ed-1/?sp=9&q=Chinese+CHINESE+Exclusion+EXCLUSION+exclusion,18.791800876875417
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf_with_expansion,https://www.loc.gov/resource/sn85066387/1901-11-22/ed-1/?sp=1&q=Act+act+Chinese+Exclusion+exclusion,18.430839253533286
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf_with_expansion,"https://www.loc.gov/resource/46032385/1901-12-06/ed-1/?sp=1&q=act+Chinese+exclusion&r=-0.286,0.087,1.588,0.719,0",17.60715420240085
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf_with_expansion,"https://www.loc.gov/resource/sn84024827/1905-06-30/ed-1/?sp=4&q=ACT+act+Chinese+CHINESE+exclusion+EXCLUSION&r=-0.163,0.262,1.084,0.491,0",17.206973503836327
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf_with_expansion,"https://www.loc.gov/resource/sn85066387/1901-11-23/ed-1/?sp=1&q=Chinese+CHINESE+exclusion+EXCLUSION+Exclusion&r=-1.148,-0.005,3.296,1.492,0",15.885875101870766
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf_with_expansion,"https://www.loc.gov/resource/sn86063381/1906-01-10/ed-1/?sp=1&q=act+Chinese+exclusion&r=-0.264,0.404,1.184,0.536,0",11.421678506425831
+https://guides.loc.gov/chronicling-america-chinese-exclusion-act,prf_with_expansion,https://www.loc.gov/resource/sn85066387/1902-04-17/ed-1/?sp=1&q=CHINESE+Chinese+exclusion+EXCLUSION,11.41915887334983
+https://guides.loc.gov/chronicling-america-eiffel-tower,baseline,"https://www.loc.gov/resource/sn83040198/1899-02-03/ed-1/?sp=7&q=Eiffel+Tower+France+French+Paris+Exhibition+Worlds+Fair+Ladder+Clouds&st=text&r=-0.241,-0.074,1.483,1.483,0",10.345142938170493
+https://guides.loc.gov/chronicling-america-eiffel-tower,baseline,"https://www.loc.gov/resource/sn91068084/1889-04-26/ed-1/?sp=5&q=Eiffel+Tower+Paris+Exhibition+1000+Feet+High+France+French+Worlds+Fair&st=text&r=-0.335,-0.303,1.669,2.11,0",10.146604991467992
+https://guides.loc.gov/chronicling-america-eiffel-tower,baseline,"https://www.loc.gov/resource/sn83045462/1907-05-18/ed-1/?sp=26&q=Dangerous+Painting+World+Eiffel+Tower+Paris+France+French+Republic+Gustav&st=text&r=-0.149,-0.412,1.111,2.36,0",10.083752839932753
+https://guides.loc.gov/chronicling-america-eiffel-tower,baseline,"https://www.loc.gov/resource/sn90059523/1903-10-25/ed-1/?sp=24&q=Eiffel+Tower+Doomed+Rocks+Wind+Paris+France+French+Gustav&st=text&r=-0.216,-0.072,1.431,1.431,0",9.742565839201529
+https://guides.loc.gov/chronicling-america-eiffel-tower,baseline,"https://www.loc.gov/resource/sn83025121/1889-04-02/ed-1/?sp=8&q=Eiffel+Tower+France+French+Paris+Worlds+Fair&st=text&r=-0.058,0,1.116,1.41,0",9.614851031651163
+https://guides.loc.gov/chronicling-america-eiffel-tower,baseline,"https://www.loc.gov/resource/sn87060190/1889-05-07/ed-1/?sp=4&q=Eiffel+Tower+Paris+France+French+Expo+Exhibition+Worlds+Fair&st=text&r=-0.038,-0.005,1.195,1.611,0",8.902369587640354
+https://guides.loc.gov/chronicling-america-eiffel-tower,baseline,https://chroniclingamerica.loc.gov/lccn/sn83045462/1912-09-14/ed-1/seq-23/ocr/,8.264719972517996
+https://guides.loc.gov/chronicling-america-eiffel-tower,baseline,https://chroniclingamerica.loc.gov/lccn/sn83045487/1917-04-23/ed-1/seq-5/ocr/,7.860594521344002
+https://guides.loc.gov/chronicling-america-eiffel-tower,baseline,"https://www.loc.gov/resource/sn85032018/1894-01-31/ed-1/?sp=15&q=Eiffel+Tower+Paris+France+French+Worlds+Fair+1900+Exhibition&st=text&r=-0.304,-0.08,1.608,1.608,0",6.1023492853551655
+https://guides.loc.gov/chronicling-america-eiffel-tower,baseline,"https://www.loc.gov/resource/sn84026853/1919-03-07/ed-1/?sp=3&q=league+of+nations&st=text&r=-0.364,-0.021,1.728,1.728,0",3.4201852200112106
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf,"https://www.loc.gov/resource/sn91068084/1889-04-26/ed-1/?sp=5&q=Eiffel+Tower+Paris+Exhibition+1000+Feet+High+France+French+Worlds+Fair&st=text&r=-0.335,-0.303,1.669,2.11,0",20.329847748471476
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf,"https://www.loc.gov/resource/sn90059523/1903-10-25/ed-1/?sp=24&q=Eiffel+Tower+Doomed+Rocks+Wind+Paris+France+French+Gustav&st=text&r=-0.216,-0.072,1.431,1.431,0",19.411414469100528
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf,"https://www.loc.gov/resource/sn83025121/1889-04-02/ed-1/?sp=8&q=Eiffel+Tower+France+French+Paris+Worlds+Fair&st=text&r=-0.058,0,1.116,1.41,0",18.07111696262414
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf,"https://www.loc.gov/resource/sn83045462/1907-05-18/ed-1/?sp=26&q=Dangerous+Painting+World+Eiffel+Tower+Paris+France+French+Republic+Gustav&st=text&r=-0.149,-0.412,1.111,2.36,0",18.054862384803886
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf,"https://www.loc.gov/resource/sn87060190/1889-05-07/ed-1/?sp=4&q=Eiffel+Tower+Paris+France+French+Expo+Exhibition+Worlds+Fair&st=text&r=-0.038,-0.005,1.195,1.611,0",17.729144846966243
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf,"https://www.loc.gov/resource/sn83040198/1899-02-03/ed-1/?sp=7&q=Eiffel+Tower+France+French+Paris+Exhibition+Worlds+Fair+Ladder+Clouds&st=text&r=-0.241,-0.074,1.483,1.483,0",17.47212119436112
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf,https://chroniclingamerica.loc.gov/lccn/sn83045462/1912-09-14/ed-1/seq-23/ocr/,10.584494782049251
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf,https://chroniclingamerica.loc.gov/lccn/sn83045487/1917-04-23/ed-1/seq-5/ocr/,10.111332018630032
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf,"https://www.loc.gov/resource/sn85032018/1894-01-31/ed-1/?sp=15&q=Eiffel+Tower+Paris+France+French+Worlds+Fair+1900+Exhibition&st=text&r=-0.304,-0.08,1.608,1.608,0",8.676032121512604
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf,https://www.loc.gov/resource/sn82016187/1885-05-28/ed-1/?sp=8&q=BARTHOLDI+STATUE+Liberty+Enlightening+World+Wonder+Colossus+Bedloe+Island,7.985113365114564
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf_with_expansion,"https://www.loc.gov/resource/sn91068084/1889-04-26/ed-1/?sp=5&q=Eiffel+Tower+Paris+Exhibition+1000+Feet+High+France+French+Worlds+Fair&st=text&r=-0.335,-0.303,1.669,2.11,0",20.329847748471476
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf_with_expansion,"https://www.loc.gov/resource/sn90059523/1903-10-25/ed-1/?sp=24&q=Eiffel+Tower+Doomed+Rocks+Wind+Paris+France+French+Gustav&st=text&r=-0.216,-0.072,1.431,1.431,0",19.411414469100528
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf_with_expansion,"https://www.loc.gov/resource/sn83025121/1889-04-02/ed-1/?sp=8&q=Eiffel+Tower+France+French+Paris+Worlds+Fair&st=text&r=-0.058,0,1.116,1.41,0",18.07111696262414
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf_with_expansion,"https://www.loc.gov/resource/sn83045462/1907-05-18/ed-1/?sp=26&q=Dangerous+Painting+World+Eiffel+Tower+Paris+France+French+Republic+Gustav&st=text&r=-0.149,-0.412,1.111,2.36,0",18.054862384803886
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf_with_expansion,"https://www.loc.gov/resource/sn87060190/1889-05-07/ed-1/?sp=4&q=Eiffel+Tower+Paris+France+French+Expo+Exhibition+Worlds+Fair&st=text&r=-0.038,-0.005,1.195,1.611,0",17.729144846966243
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf_with_expansion,"https://www.loc.gov/resource/sn83040198/1899-02-03/ed-1/?sp=7&q=Eiffel+Tower+France+French+Paris+Exhibition+Worlds+Fair+Ladder+Clouds&st=text&r=-0.241,-0.074,1.483,1.483,0",17.47212119436112
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf_with_expansion,https://chroniclingamerica.loc.gov/lccn/sn83045462/1912-09-14/ed-1/seq-23/ocr/,10.584494782049251
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf_with_expansion,https://chroniclingamerica.loc.gov/lccn/sn83045487/1917-04-23/ed-1/seq-5/ocr/,10.111332018630032
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf_with_expansion,"https://www.loc.gov/resource/sn85032018/1894-01-31/ed-1/?sp=15&q=Eiffel+Tower+Paris+France+French+Worlds+Fair+1900+Exhibition&st=text&r=-0.304,-0.08,1.608,1.608,0",8.676032121512604
+https://guides.loc.gov/chronicling-america-eiffel-tower,prf_with_expansion,https://www.loc.gov/resource/sn82016187/1885-05-28/ed-1/?sp=8&q=BARTHOLDI+STATUE+Liberty+Enlightening+World+Wonder+Colossus+Bedloe+Island,7.985113365114564
+https://guides.loc.gov/chronicling-america-electric-chair/,baseline,https://www.loc.gov/resource/sn82014424/1881-10-11/ed-1/?sp=4&q=COLOSSAL+STATUE+Liberty+Bedloe%27s+Island+Bartholdi,4.835888784417904
+https://guides.loc.gov/chronicling-america-electric-chair/,baseline,"https://www.loc.gov/resource/sn85032490/1887-04-17/ed-1/?sp=10&q=Death+Dynamo+Electric+Chair+Capital+Punishment&st=image&r=-0.267,-0.077,1.535,1.535,0",4.384392690621313
+https://guides.loc.gov/chronicling-america-electric-chair/,baseline,https://www.loc.gov/resource/sn84024827/1912-08-11/ed-1/?sp=12&q=Victims+Death+Chair+Execution+Electric+Executed+Electricity,4.1624812195181216
+https://guides.loc.gov/chronicling-america-electric-chair/,baseline,https://www.loc.gov/resource/sn83045389/1916-03-05/ed-1/?sp=48&q=Die+Death+Electric+Chair+Electrocution+Electricity,4.105275592060248
+https://guides.loc.gov/chronicling-america-electric-chair/,baseline,"https://www.loc.gov/resource/sn86075267/1888-12-13/ed-1/?sp=2&q=Electrical+Electric+Chair+Capital+Punishment+Killing+Electricity+murderers+lightning&st=text&r=-0.248,-0.075,1.496,1.496,0",3.8682909783657826
+https://guides.loc.gov/chronicling-america-electric-chair/,baseline,https://www.loc.gov/resource/sn86075267/1888-12-13/ed-1/?sp=2&q=Electrical+Electric+Chair+Capital+Punishment+Killing+Electricity+murderers+lightning,3.859366326984633
+https://guides.loc.gov/chronicling-america-electric-chair/,baseline,https://www.loc.gov/resource/sn83045462/1947-02-25/ed-1/?sp=26&q=death+chair,3.6185153759675783
+https://guides.loc.gov/chronicling-america-electric-chair/,baseline,"https://www.loc.gov/resource/sn84026853/1919-03-07/ed-1/?sp=3&q=league+of+nations&st=text&r=-0.364,-0.021,1.728,1.728,0",3.4201852200112106
+https://guides.loc.gov/chronicling-america-electric-chair/,baseline,https://www.loc.gov/resource/sn86061215/1915-07-31/ed-1/?sp=8&q=Death+Electric+Chair+Electrocuted+Executed+Execution+Murdered+Rosenthal,3.2928546904801985
+https://guides.loc.gov/chronicling-america-electric-chair/,baseline,"https://www.loc.gov/resource/sn84025891/1895-09-07/ed-1/?sp=4&q=Lizzie+Halliday+Lunatic+Asylum+Murder+Electricity&st=image&r=-0.306,-0.081,1.611,1.611,0",2.8936716908685143
+https://guides.loc.gov/chronicling-america-electric-chair/,prf,"https://www.loc.gov/resource/sn85032490/1887-04-17/ed-1/?sp=10&q=Death+Dynamo+Electric+Chair+Capital+Punishment&st=image&r=-0.267,-0.077,1.535,1.535,0",18.305115481338817
+https://guides.loc.gov/chronicling-america-electric-chair/,prf,https://www.loc.gov/resource/sn84028140/1901-10-29/ed-1/?sp=1&q=Repentance+Czolgosz+Electric+Chair+Electrocuted+Deadly+Current,13.788854147397249
+https://guides.loc.gov/chronicling-america-electric-chair/,prf,https://www.loc.gov/resource/sn83030193/1903-05-25/ed-1/?sp=3&q=death+chair,13.170020723298833
+https://guides.loc.gov/chronicling-america-electric-chair/,prf,https://www.loc.gov/resource/sn82014424/1881-10-11/ed-1/?sp=4&q=COLOSSAL+STATUE+Liberty+Bedloe%27s+Island+Bartholdi,12.115471184470838
+https://guides.loc.gov/chronicling-america-electric-chair/,prf,https://www.loc.gov/resource/sn86075267/1888-12-13/ed-1/?sp=2&q=Electrical+Electric+Chair+Capital+Punishment+Killing+Electricity+murderers+lightning,11.043197880296393
+https://guides.loc.gov/chronicling-america-electric-chair/,prf,"https://www.loc.gov/resource/sn86075267/1888-12-13/ed-1/?sp=2&q=Electrical+Electric+Chair+Capital+Punishment+Killing+Electricity+murderers+lightning&st=text&r=-0.248,-0.075,1.496,1.496,0",11.029166056460994
+https://guides.loc.gov/chronicling-america-electric-chair/,prf,https://www.loc.gov/resource/sn84024827/1912-08-11/ed-1/?sp=12&q=Victims+Death+Chair+Execution+Electric+Executed+Electricity,10.675170830491629
+https://guides.loc.gov/chronicling-america-electric-chair/,prf,https://www.loc.gov/resource/sn86061215/1915-07-31/ed-1/?sp=8&q=Death+Electric+Chair+Electrocuted+Executed+Execution+Murdered+Rosenthal,9.51300675626739
+https://guides.loc.gov/chronicling-america-electric-chair/,prf,https://www.loc.gov/resource/sn86090369/1911-11-24/ed-1/?sp=1&q=death+chair,8.034011069009319
+https://guides.loc.gov/chronicling-america-electric-chair/,prf,"https://www.loc.gov/resource/sn85058396/1916-05-19/ed-1/?sp=9&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.271,-0.077,1.542,1.542,0",7.721603896437209
+https://guides.loc.gov/chronicling-america-electric-chair/,prf_with_expansion,"https://www.loc.gov/resource/sn85032490/1887-04-17/ed-1/?sp=10&q=Death+Dynamo+Electric+Chair+Capital+Punishment&st=image&r=-0.267,-0.077,1.535,1.535,0",18.305115481338817
+https://guides.loc.gov/chronicling-america-electric-chair/,prf_with_expansion,https://www.loc.gov/resource/sn84028140/1901-10-29/ed-1/?sp=1&q=Repentance+Czolgosz+Electric+Chair+Electrocuted+Deadly+Current,13.788854147397249
+https://guides.loc.gov/chronicling-america-electric-chair/,prf_with_expansion,https://www.loc.gov/resource/sn83030193/1903-05-25/ed-1/?sp=3&q=death+chair,13.170020723298833
+https://guides.loc.gov/chronicling-america-electric-chair/,prf_with_expansion,https://www.loc.gov/resource/sn82014424/1881-10-11/ed-1/?sp=4&q=COLOSSAL+STATUE+Liberty+Bedloe%27s+Island+Bartholdi,12.115471184470838
+https://guides.loc.gov/chronicling-america-electric-chair/,prf_with_expansion,https://www.loc.gov/resource/sn86075267/1888-12-13/ed-1/?sp=2&q=Electrical+Electric+Chair+Capital+Punishment+Killing+Electricity+murderers+lightning,11.043197880296393
+https://guides.loc.gov/chronicling-america-electric-chair/,prf_with_expansion,"https://www.loc.gov/resource/sn86075267/1888-12-13/ed-1/?sp=2&q=Electrical+Electric+Chair+Capital+Punishment+Killing+Electricity+murderers+lightning&st=text&r=-0.248,-0.075,1.496,1.496,0",11.029166056460994
+https://guides.loc.gov/chronicling-america-electric-chair/,prf_with_expansion,https://www.loc.gov/resource/sn84024827/1912-08-11/ed-1/?sp=12&q=Victims+Death+Chair+Execution+Electric+Executed+Electricity,10.675170830491629
+https://guides.loc.gov/chronicling-america-electric-chair/,prf_with_expansion,https://www.loc.gov/resource/sn86061215/1915-07-31/ed-1/?sp=8&q=Death+Electric+Chair+Electrocuted+Executed+Execution+Murdered+Rosenthal,9.51300675626739
+https://guides.loc.gov/chronicling-america-electric-chair/,prf_with_expansion,https://www.loc.gov/resource/sn86090369/1911-11-24/ed-1/?sp=1&q=death+chair,8.034011069009319
+https://guides.loc.gov/chronicling-america-electric-chair/,prf_with_expansion,"https://www.loc.gov/resource/sn85058396/1916-05-19/ed-1/?sp=9&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.271,-0.077,1.542,1.542,0",7.721603896437209
+https://guides.loc.gov/chronicling-america-american-female-pilots,baseline,https://www.loc.gov/resource/sn87065526/1963-06-20/ed-1/?sp=6&q=female+pilots,12.44504065698979
+https://guides.loc.gov/chronicling-america-american-female-pilots,baseline,https://www.loc.gov/resource/sn96090217/1912-06-28/ed-1/?sp=3&q=female+pilots,10.952041769199084
+https://guides.loc.gov/chronicling-america-american-female-pilots,baseline,https://www.loc.gov/resource/sn83045487/1912-01-19/ed-1/?sp=32&q=aeroplane+Blanche+lady+Scott,6.000772798215788
+https://guides.loc.gov/chronicling-america-american-female-pilots,baseline,"https://www.loc.gov/resource/sn84026749/1914-05-07/ed-1/?sp=7&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.174,-0.067,1.349,1.349,0",5.1035870953732925
+https://guides.loc.gov/chronicling-america-american-female-pilots,baseline,https://www.loc.gov/resource/sn83030193/1911-11-01/ed-1/?sp=4&q=Ladies+lady+Mathilda+moisant,4.9551977839005295
+https://guides.loc.gov/chronicling-america-american-female-pilots,baseline,https://www.loc.gov/resource/sn84024827/1917-12-12/ed-1/?sp=3&q=aeroplane+Katherine+ladies+lady+Stinson,4.851379719055868
+https://guides.loc.gov/chronicling-america-american-female-pilots,baseline,https://www.loc.gov/resource/sn82006551/1935-12-26/ed-1/?sp=7&q=statue+of+liberty,3.8190284758387176
+https://guides.loc.gov/chronicling-america-american-female-pilots,baseline,https://www.loc.gov/resource/sn82014424/1881-10-11/ed-1/?sp=4&q=COLOSSAL+STATUE+Liberty+Bedloe%27s+Island+Bartholdi,3.728213171649605
+https://guides.loc.gov/chronicling-america-american-female-pilots,baseline,"https://www.loc.gov/resource/sn84001718/1920-10-29/ed-1/?sp=4&q=league+of+nations&r=-1.137,-0.042,3.274,1.482,0",3.4861112440328683
+https://guides.loc.gov/chronicling-america-american-female-pilots,baseline,"https://www.loc.gov/resource/sn84026853/1919-03-07/ed-1/?sp=3&q=league+of+nations&st=text&r=-0.364,-0.021,1.728,1.728,0",3.4201852200112106
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf,https://www.loc.gov/resource/sn83045487/1912-01-19/ed-1/?sp=32&q=aeroplane+Blanche+lady+Scott,16.022607862959383
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf,https://www.loc.gov/resource/sn87065526/1963-06-20/ed-1/?sp=6&q=female+pilots,14.987286181440288
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf,"https://www.loc.gov/resource/sn84026749/1914-05-07/ed-1/?sp=7&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.174,-0.067,1.349,1.349,0",14.837615615123894
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf,https://www.loc.gov/resource/sn93055779/1911-07-26/ed-1/?sp=3&q=aeroplane+Aeroplane+bird+Blanche+Lady+lScott,13.851014171409988
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf,https://www.loc.gov/resource/sn96090217/1912-06-28/ed-1/?sp=3&q=female+pilots,13.44779289393114
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf,https://www.loc.gov/resource/sn83030193/1911-11-01/ed-1/?sp=4&q=Ladies+lady+Mathilda+moisant,13.291238813116586
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf,https://www.loc.gov/resource/sn85053157/1912-10-23/ed-1/?sp=7&q=aeroplane+Blanche+Scottt,12.023476441565602
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf,https://www.loc.gov/resource/sn87062268/1912-04-21/ed-1/?sp=24&q=aeroplane+Blanche+Mathilda+Moisant+Scott,11.951554450796403
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf,https://www.loc.gov/resource/sn84024827/1917-12-12/ed-1/?sp=3&q=aeroplane+Katherine+ladies+lady+Stinson,8.245743956481073
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf,"https://www.loc.gov/resource/sn84026853/1919-03-07/ed-1/?sp=3&q=league+of+nations&st=text&r=-0.364,-0.021,1.728,1.728,0",5.887163133189684
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf_with_expansion,https://www.loc.gov/resource/sn83045487/1912-01-19/ed-1/?sp=32&q=aeroplane+Blanche+lady+Scott,16.022607862959383
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf_with_expansion,https://www.loc.gov/resource/sn87065526/1963-06-20/ed-1/?sp=6&q=female+pilots,14.987286181440288
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf_with_expansion,"https://www.loc.gov/resource/sn84026749/1914-05-07/ed-1/?sp=7&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.174,-0.067,1.349,1.349,0",14.837615615123894
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf_with_expansion,https://www.loc.gov/resource/sn93055779/1911-07-26/ed-1/?sp=3&q=aeroplane+Aeroplane+bird+Blanche+Lady+lScott,13.851014171409988
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf_with_expansion,https://www.loc.gov/resource/sn96090217/1912-06-28/ed-1/?sp=3&q=female+pilots,13.44779289393114
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf_with_expansion,https://www.loc.gov/resource/sn83030193/1911-11-01/ed-1/?sp=4&q=Ladies+lady+Mathilda+moisant,13.291238813116586
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf_with_expansion,https://www.loc.gov/resource/sn85053157/1912-10-23/ed-1/?sp=7&q=aeroplane+Blanche+Scottt,12.023476441565602
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf_with_expansion,https://www.loc.gov/resource/sn87062268/1912-04-21/ed-1/?sp=24&q=aeroplane+Blanche+Mathilda+Moisant+Scott,11.951554450796403
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf_with_expansion,https://www.loc.gov/resource/sn84024827/1917-12-12/ed-1/?sp=3&q=aeroplane+Katherine+ladies+lady+Stinson,8.245743956481073
+https://guides.loc.gov/chronicling-america-american-female-pilots,prf_with_expansion,"https://www.loc.gov/resource/sn84026853/1919-03-07/ed-1/?sp=3&q=league+of+nations&st=text&r=-0.364,-0.021,1.728,1.728,0",5.887163133189684
+https://guides.loc.gov/chronicling-america-league-of-nations,baseline,"https://www.loc.gov/resource/sn84026853/1919-03-07/ed-1/?sp=3&q=league+of+nations&st=text&r=-0.364,-0.021,1.728,1.728,0",8.517468901422713
+https://guides.loc.gov/chronicling-america-league-of-nations,baseline,https://www.loc.gov/resource/sn88084272/1920-01-16/ed-1/?sp=1&q=Wilson+League+Geneva,8.179085778453262
+https://guides.loc.gov/chronicling-america-league-of-nations,baseline,"https://www.loc.gov/resource/sn84001718/1920-10-29/ed-1/?sp=4&q=league+of+nations&r=-1.137,-0.042,3.274,1.482,0",7.977992094685995
+https://guides.loc.gov/chronicling-america-league-of-nations,baseline,https://www.loc.gov/resource/sn84026749/1919-02-14/ed-1/?sp=1&q=Wilson+League+Geneva,7.801306507456712
+https://guides.loc.gov/chronicling-america-league-of-nations,baseline,"https://www.loc.gov/resource/sn86076241/1920-10-08/ed-1/?sp=2&q=league+of+nations&st=text&r=-0.29,-0.079,1.579,1.579,0",7.0801879628054065
+https://guides.loc.gov/chronicling-america-league-of-nations,baseline,"https://www.loc.gov/resource/sn83030431/1919-09-09/ed-1/?sp=8&q=league+of+nations&st=text&r=-0.189,-0.291,1.378,1.378,0",6.93065884093275
+https://guides.loc.gov/chronicling-america-league-of-nations,baseline,https://www.loc.gov/resource/sn83045211/1920-01-16/ed-1/?sp=1&q=Wilson+League+Geneva,6.717197060517836
+https://guides.loc.gov/chronicling-america-league-of-nations,baseline,https://www.loc.gov/resource/sn86076241/1918-11-29/ed-1/?sp=2&q=league+of+nations,6.589378069862926
+https://guides.loc.gov/chronicling-america-league-of-nations,baseline,https://www.loc.gov/resource/sn83030214/1920-11-14/ed-1/?sp=1&q=Wilson+League+Geneva,6.342076082079465
+https://guides.loc.gov/chronicling-america-league-of-nations,baseline,https://www.loc.gov/resource/sn86071134/1919-01-26/ed-1/?sp=1&q=Wilson+League+Geneva,6.023698940790441
+https://guides.loc.gov/chronicling-america-league-of-nations,prf,https://www.loc.gov/resource/sn84026749/1919-02-14/ed-1/?sp=1&q=Wilson+League+Geneva,21.90573028474689
+https://guides.loc.gov/chronicling-america-league-of-nations,prf,https://www.loc.gov/resource/sn88084272/1920-01-16/ed-1/?sp=1&q=Wilson+League+Geneva,15.842176122958687
+https://guides.loc.gov/chronicling-america-league-of-nations,prf,https://www.loc.gov/resource/sn83045211/1920-01-16/ed-1/?sp=1&q=Wilson+League+Geneva,13.2124176366227
+https://guides.loc.gov/chronicling-america-league-of-nations,prf,https://www.loc.gov/resource/sn86076241/1918-11-29/ed-1/?sp=2&q=league+of+nations,11.807667059282263
+https://guides.loc.gov/chronicling-america-league-of-nations,prf,"https://www.loc.gov/resource/sn84001718/1920-10-29/ed-1/?sp=4&q=league+of+nations&r=-1.137,-0.042,3.274,1.482,0",11.651195970307345
+https://guides.loc.gov/chronicling-america-league-of-nations,prf,https://www.loc.gov/resource/sn83030214/1920-11-14/ed-1/?sp=1&q=Wilson+League+Geneva,9.938815280233745
+https://guides.loc.gov/chronicling-america-league-of-nations,prf,"https://www.loc.gov/resource/sn84026853/1919-03-07/ed-1/?sp=3&q=league+of+nations&st=text&r=-0.364,-0.021,1.728,1.728,0",8.812300282807465
+https://guides.loc.gov/chronicling-america-league-of-nations,prf,"https://www.loc.gov/resource/sn86076241/1920-10-08/ed-1/?sp=2&q=league+of+nations&st=text&r=-0.29,-0.079,1.579,1.579,0",8.168856522087362
+https://guides.loc.gov/chronicling-america-league-of-nations,prf,"https://www.loc.gov/resource/sn83030431/1919-09-09/ed-1/?sp=8&q=league+of+nations&st=text&r=-0.189,-0.291,1.378,1.378,0",7.6911581277556405
+https://guides.loc.gov/chronicling-america-league-of-nations,prf,"https://www.loc.gov/resource/sn85053040/1882-05-13/ed-1/?sp=1&q=Bill+bill+Chinese+signed&st=text&r=-0.297,-0.08,1.594,1.594,0",6.492524298466185
+https://guides.loc.gov/chronicling-america-league-of-nations,prf_with_expansion,https://www.loc.gov/resource/sn84026749/1919-02-14/ed-1/?sp=1&q=Wilson+League+Geneva,21.90573028474689
+https://guides.loc.gov/chronicling-america-league-of-nations,prf_with_expansion,https://www.loc.gov/resource/sn88084272/1920-01-16/ed-1/?sp=1&q=Wilson+League+Geneva,15.842176122958687
+https://guides.loc.gov/chronicling-america-league-of-nations,prf_with_expansion,https://www.loc.gov/resource/sn83045211/1920-01-16/ed-1/?sp=1&q=Wilson+League+Geneva,13.2124176366227
+https://guides.loc.gov/chronicling-america-league-of-nations,prf_with_expansion,https://www.loc.gov/resource/sn86076241/1918-11-29/ed-1/?sp=2&q=league+of+nations,11.807667059282263
+https://guides.loc.gov/chronicling-america-league-of-nations,prf_with_expansion,"https://www.loc.gov/resource/sn84001718/1920-10-29/ed-1/?sp=4&q=league+of+nations&r=-1.137,-0.042,3.274,1.482,0",11.651195970307345
+https://guides.loc.gov/chronicling-america-league-of-nations,prf_with_expansion,https://www.loc.gov/resource/sn83030214/1920-11-14/ed-1/?sp=1&q=Wilson+League+Geneva,9.938815280233745
+https://guides.loc.gov/chronicling-america-league-of-nations,prf_with_expansion,"https://www.loc.gov/resource/sn84026853/1919-03-07/ed-1/?sp=3&q=league+of+nations&st=text&r=-0.364,-0.021,1.728,1.728,0",8.812300282807465
+https://guides.loc.gov/chronicling-america-league-of-nations,prf_with_expansion,"https://www.loc.gov/resource/sn86076241/1920-10-08/ed-1/?sp=2&q=league+of+nations&st=text&r=-0.29,-0.079,1.579,1.579,0",8.168856522087362
+https://guides.loc.gov/chronicling-america-league-of-nations,prf_with_expansion,"https://www.loc.gov/resource/sn83030431/1919-09-09/ed-1/?sp=8&q=league+of+nations&st=text&r=-0.189,-0.291,1.378,1.378,0",7.6911581277556405
+https://guides.loc.gov/chronicling-america-league-of-nations,prf_with_expansion,"https://www.loc.gov/resource/sn85053040/1882-05-13/ed-1/?sp=1&q=Bill+bill+Chinese+signed&st=text&r=-0.297,-0.08,1.594,1.594,0",6.492524298466185
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",baseline,https://chroniclingamerica.loc.gov/lccn/sn85042303/1914-06-05/ed-1/seq-4/#words=Lisa+Mona,13.436610885189364
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",baseline,https://chroniclingamerica.loc.gov/lccn/sn88084272/1913-10-26/ed-1/seq-30/#words=Lisa+Mona,12.290278031263819
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",baseline,https://chroniclingamerica.loc.gov/lccn/sn87078082/1911-09-06/ed-1/seq-6/#words=Lisa+LISA+MONA+Mona,12.126573140881902
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",baseline,https://chroniclingamerica.loc.gov/lccn/sn83045462/1914-03-20/ed-1/seq-10/#words=LISA+Lisa+Mona+MONA,12.019872521822695
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",baseline,https://chroniclingamerica.loc.gov/lccn/sn99021999/1913-12-14/ed-1/seq-4/#words=Lisa+Mona,11.66889751679574
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",baseline,"https://www.loc.gov/resource/sn87007277/1914-02-13/ed-1/?sp=2&q=mona+lisa&r=-0.583,0.027,2.166,1.128,0",11.60522195044702
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",baseline,https://chroniclingamerica.loc.gov/lccn/sn83045396/1913-12-13/ed-1/seq-12/#words=LISA+Lisa+Mona+MONA,11.407503798729909
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",baseline,https://chroniclingamerica.loc.gov/lccn/sn83045462/1913-12-13/ed-1/seq-4/#words=LISA+Lisa+MONA+Mona+Perugia+Vincenzo,11.166044867382313
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",baseline,https://chroniclingamerica.loc.gov/lccn/sn99021999/1914-02-15/ed-1/seq-20/#words=Lisa+Mona,8.951051863146628
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",baseline,https://chroniclingamerica.loc.gov/lccn/sn83016810/1910-08-20/ed-1/seq-1/#words=Lisa+Mona,8.84337355373366
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf,https://chroniclingamerica.loc.gov/lccn/sn83045462/1914-03-20/ed-1/seq-10/#words=LISA+Lisa+Mona+MONA,29.844353877623686
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf,https://chroniclingamerica.loc.gov/lccn/sn99021999/1913-12-14/ed-1/seq-4/#words=Lisa+Mona,29.41641164985779
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf,https://chroniclingamerica.loc.gov/lccn/sn83045462/1913-12-13/ed-1/seq-4/#words=LISA+Lisa+MONA+Mona+Perugia+Vincenzo,29.36450466027103
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf,https://chroniclingamerica.loc.gov/lccn/sn83045396/1913-12-13/ed-1/seq-12/#words=LISA+Lisa+Mona+MONA,29.104465503508337
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf,https://chroniclingamerica.loc.gov/lccn/sn88084272/1913-10-26/ed-1/seq-30/#words=Lisa+Mona,26.11063581889269
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf,https://chroniclingamerica.loc.gov/lccn/sn87078082/1911-09-06/ed-1/seq-6/#words=Lisa+LISA+MONA+Mona,24.921066816349253
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf,"https://www.loc.gov/resource/sn87007277/1914-02-13/ed-1/?sp=2&q=mona+lisa&r=-0.583,0.027,2.166,1.128,0",24.031804927671672
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf,https://chroniclingamerica.loc.gov/lccn/sn99021999/1914-02-15/ed-1/seq-20/#words=Lisa+Mona,22.006441748267427
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf,https://chroniclingamerica.loc.gov/lccn/sn83016810/1910-08-20/ed-1/seq-1/#words=Lisa+Mona,21.652686119748388
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf,https://chroniclingamerica.loc.gov/lccn/sn85042303/1914-06-05/ed-1/seq-4/#words=Lisa+Mona,21.48087557203117
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf_with_expansion,https://chroniclingamerica.loc.gov/lccn/sn83045462/1914-03-20/ed-1/seq-10/#words=LISA+Lisa+Mona+MONA,29.844353877623686
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf_with_expansion,https://chroniclingamerica.loc.gov/lccn/sn99021999/1913-12-14/ed-1/seq-4/#words=Lisa+Mona,29.41641164985779
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf_with_expansion,https://chroniclingamerica.loc.gov/lccn/sn83045462/1913-12-13/ed-1/seq-4/#words=LISA+Lisa+MONA+Mona+Perugia+Vincenzo,29.36450466027103
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf_with_expansion,https://chroniclingamerica.loc.gov/lccn/sn83045396/1913-12-13/ed-1/seq-12/#words=LISA+Lisa+Mona+MONA,29.104465503508337
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf_with_expansion,https://chroniclingamerica.loc.gov/lccn/sn88084272/1913-10-26/ed-1/seq-30/#words=Lisa+Mona,26.11063581889269
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf_with_expansion,https://chroniclingamerica.loc.gov/lccn/sn87078082/1911-09-06/ed-1/seq-6/#words=Lisa+LISA+MONA+Mona,24.921066816349253
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf_with_expansion,"https://www.loc.gov/resource/sn87007277/1914-02-13/ed-1/?sp=2&q=mona+lisa&r=-0.583,0.027,2.166,1.128,0",24.031804927671672
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf_with_expansion,https://chroniclingamerica.loc.gov/lccn/sn99021999/1914-02-15/ed-1/seq-20/#words=Lisa+Mona,22.006441748267427
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf_with_expansion,https://chroniclingamerica.loc.gov/lccn/sn83016810/1910-08-20/ed-1/seq-1/#words=Lisa+Mona,21.652686119748388
+"
+   https://guides.loc.gov/chronicling-america-theft-mona-lisa
+   ",prf_with_expansion,https://chroniclingamerica.loc.gov/lccn/sn85042303/1914-06-05/ed-1/seq-4/#words=Lisa+Mona,21.48087557203117
+https://guides.loc.gov/chronicling-america-mothers-day,baseline,"https://www.loc.gov/resource/sn83045433/1914-05-10/ed-1/?sp=3&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.163,-0.066,1.326,1.326,0",7.560543055721338
+https://guides.loc.gov/chronicling-america-mothers-day,baseline,"https://www.loc.gov/resource/sn85058396/1916-05-19/ed-1/?sp=9&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.271,-0.077,1.542,1.542,0",6.805927355823598
+https://guides.loc.gov/chronicling-america-mothers-day,baseline,"https://www.loc.gov/resource/sn95060583/1922-05-18/ed-1/?sp=7&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=0.279,-0.478,1.111,2.36,0",6.589808148808825
+https://guides.loc.gov/chronicling-america-mothers-day,baseline,https://chroniclingamerica.loc.gov/lccn/sn83045487/1915-05-08/ed-1/seq-4/#date1=1756&index=2&rows=20&words=Day+DAY+day+Mother+mother+MOTHERS&searchType=basic&sequence=0&state=&date2=1963&proxtext=Mother%27s+Day&y=26&x=4&dateFilterType=yearRange&page=1,6.563042460913801
+https://guides.loc.gov/chronicling-america-mothers-day,baseline,"https://www.loc.gov/resource/sn83045211/1916-06-29/ed-1/?sp=10&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.231,-0.073,1.462,1.462,0",6.494751015731528
+https://guides.loc.gov/chronicling-america-mothers-day,baseline,"https://www.loc.gov/resource/sn85066387/1912-05-11/ed-1/?sp=1&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.294,-0.079,1.589,1.589,0",6.3263450696967025
+https://guides.loc.gov/chronicling-america-mothers-day,baseline,"https://www.loc.gov/resource/sn86063381/1912-05-11/ed-1/?sp=2&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.233,-0.073,1.466,1.466,0",5.967258686731547
+https://guides.loc.gov/chronicling-america-mothers-day,baseline,https://chroniclingamerica.loc.gov/lccn/sn83045462/1952-04-27/ed-1/seq-174/#date1=1756&index=3&rows=20&words=Day+mother&searchType=basic&sequence=0&state=&date2=1963&proxtext=Mother%27s+Day&y=26&x=4&dateFilterType=yearRange&page=1,4.966653130981024
+https://guides.loc.gov/chronicling-america-mothers-day,baseline,https://www.loc.gov/resource/sn84026749/1920-01-25/ed-1/?sp=32&q=Baby+Ghost+Spectral+Messages+Curran+Patience+Worth+Talking+Ouija+Board+Planchette+Alphabet+Witch,4.85294585378102
+https://guides.loc.gov/chronicling-america-mothers-day,baseline,"https://www.loc.gov/resource/sn84026853/1919-03-07/ed-1/?sp=3&q=league+of+nations&st=text&r=-0.364,-0.021,1.728,1.728,0",3.868414558652678
+https://guides.loc.gov/chronicling-america-mothers-day,prf,"https://www.loc.gov/resource/sn83045211/1916-06-29/ed-1/?sp=10&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.231,-0.073,1.462,1.462,0",16.698725705764108
+https://guides.loc.gov/chronicling-america-mothers-day,prf,"https://www.loc.gov/resource/sn85058396/1916-05-19/ed-1/?sp=9&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.271,-0.077,1.542,1.542,0",16.200277690312284
+https://guides.loc.gov/chronicling-america-mothers-day,prf,"https://www.loc.gov/resource/sn95060583/1922-05-18/ed-1/?sp=7&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=0.279,-0.478,1.111,2.36,0",14.121030060256743
+https://guides.loc.gov/chronicling-america-mothers-day,prf,https://chroniclingamerica.loc.gov/lccn/sn83045487/1915-05-08/ed-1/seq-4/#date1=1756&index=2&rows=20&words=Day+DAY+day+Mother+mother+MOTHERS&searchType=basic&sequence=0&state=&date2=1963&proxtext=Mother%27s+Day&y=26&x=4&dateFilterType=yearRange&page=1,12.688698431483404
+https://guides.loc.gov/chronicling-america-mothers-day,prf,"https://www.loc.gov/resource/sn85066387/1912-05-11/ed-1/?sp=1&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.294,-0.079,1.589,1.589,0",11.862629251603632
+https://guides.loc.gov/chronicling-america-mothers-day,prf,"https://www.loc.gov/resource/sn83045433/1914-05-10/ed-1/?sp=3&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.163,-0.066,1.326,1.326,0",10.644703306415083
+https://guides.loc.gov/chronicling-america-mothers-day,prf,https://www.loc.gov/resource/sn82014424/1881-10-11/ed-1/?sp=4&q=COLOSSAL+STATUE+Liberty+Bedloe%27s+Island+Bartholdi,9.905529549717363
+https://guides.loc.gov/chronicling-america-mothers-day,prf,"https://www.loc.gov/resource/sn86063381/1912-05-11/ed-1/?sp=2&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.233,-0.073,1.466,1.466,0",9.26940363955609
+https://guides.loc.gov/chronicling-america-mothers-day,prf,https://www.loc.gov/resource/sn83040340/1886-11-05/ed-1/?sp=6&q=Liberty+Light+Statue+Bartholdi+Colossal+Bedloe+Island,8.936333923115495
+https://guides.loc.gov/chronicling-america-mothers-day,prf,https://www.loc.gov/resource/sn84026749/1920-01-25/ed-1/?sp=32&q=Baby+Ghost+Spectral+Messages+Curran+Patience+Worth+Talking+Ouija+Board+Planchette+Alphabet+Witch,7.849241856036529
+https://guides.loc.gov/chronicling-america-mothers-day,prf_with_expansion,"https://www.loc.gov/resource/sn83045211/1916-06-29/ed-1/?sp=10&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.231,-0.073,1.462,1.462,0",16.698725705764108
+https://guides.loc.gov/chronicling-america-mothers-day,prf_with_expansion,"https://www.loc.gov/resource/sn85058396/1916-05-19/ed-1/?sp=9&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.271,-0.077,1.542,1.542,0",16.200277690312284
+https://guides.loc.gov/chronicling-america-mothers-day,prf_with_expansion,"https://www.loc.gov/resource/sn95060583/1922-05-18/ed-1/?sp=7&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=0.279,-0.478,1.111,2.36,0",14.121030060256743
+https://guides.loc.gov/chronicling-america-mothers-day,prf_with_expansion,https://chroniclingamerica.loc.gov/lccn/sn83045487/1915-05-08/ed-1/seq-4/#date1=1756&index=2&rows=20&words=Day+DAY+day+Mother+mother+MOTHERS&searchType=basic&sequence=0&state=&date2=1963&proxtext=Mother%27s+Day&y=26&x=4&dateFilterType=yearRange&page=1,12.688698431483404
+https://guides.loc.gov/chronicling-america-mothers-day,prf_with_expansion,"https://www.loc.gov/resource/sn85066387/1912-05-11/ed-1/?sp=1&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.294,-0.079,1.589,1.589,0",11.862629251603632
+https://guides.loc.gov/chronicling-america-mothers-day,prf_with_expansion,"https://www.loc.gov/resource/sn83045433/1914-05-10/ed-1/?sp=3&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.163,-0.066,1.326,1.326,0",10.644703306415083
+https://guides.loc.gov/chronicling-america-mothers-day,prf_with_expansion,https://www.loc.gov/resource/sn82014424/1881-10-11/ed-1/?sp=4&q=COLOSSAL+STATUE+Liberty+Bedloe%27s+Island+Bartholdi,9.905529549717363
+https://guides.loc.gov/chronicling-america-mothers-day,prf_with_expansion,"https://www.loc.gov/resource/sn86063381/1912-05-11/ed-1/?sp=2&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.233,-0.073,1.466,1.466,0",9.26940363955609
+https://guides.loc.gov/chronicling-america-mothers-day,prf_with_expansion,https://www.loc.gov/resource/sn83040340/1886-11-05/ed-1/?sp=6&q=Liberty+Light+Statue+Bartholdi+Colossal+Bedloe+Island,8.936333923115495
+https://guides.loc.gov/chronicling-america-mothers-day,prf_with_expansion,https://www.loc.gov/resource/sn84026749/1920-01-25/ed-1/?sp=32&q=Baby+Ghost+Spectral+Messages+Curran+Patience+Worth+Talking+Ouija+Board+Planchette+Alphabet+Witch,7.849241856036529
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",baseline,"https://www.loc.gov/resource/sn98047754/1911-09-01/ed-1/?sp=15&q=motorcycle+motorcycles+vehicle+street+race&r=-0.158,0.047,1.385,0.721,0",6.4482005680209165
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",baseline,"https://www.loc.gov/resource/sn83030214/1903-11-02/ed-1/?sp=9&q=motorcycle+motorcycles+vehicle+street+race&r=0.29,0.215,0.767,0.4,0",6.248412218974751
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",baseline,"https://www.loc.gov/resource/sn84024808/1919-04-26/ed-1/?sp=4&q=motorcycle&r=0.164,-0.028,1.025,0.534,0",6.247885468067407
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",baseline,"https://www.loc.gov/resource/sn83030272/1904-07-20/ed-1/?sp=5&q=motorcycle+motorcycles+vehicle+street+race&r=-0.006,1.045,0.363,0.189,0",6.198367868203894
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",baseline,https://www.loc.gov/resource/sn82015104/1895-11-16/ed-1/?sp=1&q=motorcycle+motorcycles+vehicle+street+race,6.043698564944928
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",baseline,"https://www.loc.gov/resource/sn85053043/1940-06-21/ed-1/?sp=5&q=motorcycle&r=-0.006,0.847,1.126,0.587,0",5.92050035634971
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",baseline,https://chroniclingamerica.loc.gov/lccn/sn87078082/1911-09-06/ed-1/seq-6/#words=Lisa+LISA+MONA+Mona,3.8689760631824885
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",baseline,"https://www.loc.gov/resource/sn85042591/1869-01-22/ed-1/?sp=1&q=motorcycle+motorcycles+vehicle+street+race&r=0.262,0.46,0.524,0.273,0",3.855895152927598
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",baseline,"https://www.loc.gov/resource/sn84026853/1919-03-07/ed-1/?sp=3&q=league+of+nations&st=text&r=-0.364,-0.021,1.728,1.728,0",3.4201852200112106
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",baseline,https://www.loc.gov/resource/sn82014424/1881-10-11/ed-1/?sp=4&q=COLOSSAL+STATUE+Liberty+Bedloe%27s+Island+Bartholdi,2.652330875087582
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf,"https://www.loc.gov/resource/sn84024808/1919-04-26/ed-1/?sp=4&q=motorcycle&r=0.164,-0.028,1.025,0.534,0",18.56740361731237
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf,"https://www.loc.gov/resource/sn85053043/1940-06-21/ed-1/?sp=5&q=motorcycle&r=-0.006,0.847,1.126,0.587,0",16.474197396393354
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf,"https://www.loc.gov/resource/sn85042462/1908-09-09/ed-1/?sp=7&q=motorcycle+motorcycles+vehicle+street+race&r=-0.091,0.644,0.837,0.436,0",15.158515372217838
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf,"https://www.loc.gov/resource/sn98047754/1911-09-01/ed-1/?sp=15&q=motorcycle+motorcycles+vehicle+street+race&r=-0.158,0.047,1.385,0.721,0",13.292950887388617
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf,"https://www.loc.gov/resource/sn83030214/1903-11-02/ed-1/?sp=9&q=motorcycle+motorcycles+vehicle+street+race&r=0.29,0.215,0.767,0.4,0",11.978143504016058
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf,https://www.loc.gov/resource/sn82015104/1895-11-16/ed-1/?sp=1&q=motorcycle+motorcycles+vehicle+street+race,9.46891193550718
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf,"https://www.loc.gov/resource/sn83030272/1904-07-20/ed-1/?sp=5&q=motorcycle+motorcycles+vehicle+street+race&r=-0.006,1.045,0.363,0.189,0",8.162283337478582
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf,"https://www.loc.gov/resource/sn85042591/1869-01-22/ed-1/?sp=1&q=motorcycle+motorcycles+vehicle+street+race&r=0.262,0.46,0.524,0.273,0",8.112918755963673
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf,https://www.loc.gov/resource/sn83045487/1912-01-19/ed-1/?sp=32&q=aeroplane+Blanche+lady+Scott,8.110903824660586
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf,https://www.loc.gov/resource/sn93055779/1911-07-26/ed-1/?sp=3&q=aeroplane+Aeroplane+bird+Blanche+Lady+lScott,7.188599859294676
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf_with_expansion,"https://www.loc.gov/resource/sn84024808/1919-04-26/ed-1/?sp=4&q=motorcycle&r=0.164,-0.028,1.025,0.534,0",18.56740361731237
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf_with_expansion,"https://www.loc.gov/resource/sn85053043/1940-06-21/ed-1/?sp=5&q=motorcycle&r=-0.006,0.847,1.126,0.587,0",16.474197396393354
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf_with_expansion,"https://www.loc.gov/resource/sn85042462/1908-09-09/ed-1/?sp=7&q=motorcycle+motorcycles+vehicle+street+race&r=-0.091,0.644,0.837,0.436,0",15.158515372217838
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf_with_expansion,"https://www.loc.gov/resource/sn98047754/1911-09-01/ed-1/?sp=15&q=motorcycle+motorcycles+vehicle+street+race&r=-0.158,0.047,1.385,0.721,0",13.292950887388617
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf_with_expansion,"https://www.loc.gov/resource/sn83030214/1903-11-02/ed-1/?sp=9&q=motorcycle+motorcycles+vehicle+street+race&r=0.29,0.215,0.767,0.4,0",11.978143504016058
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf_with_expansion,https://www.loc.gov/resource/sn82015104/1895-11-16/ed-1/?sp=1&q=motorcycle+motorcycles+vehicle+street+race,9.46891193550718
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf_with_expansion,"https://www.loc.gov/resource/sn83030272/1904-07-20/ed-1/?sp=5&q=motorcycle+motorcycles+vehicle+street+race&r=-0.006,1.045,0.363,0.189,0",8.162283337478582
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf_with_expansion,"https://www.loc.gov/resource/sn85042591/1869-01-22/ed-1/?sp=1&q=motorcycle+motorcycles+vehicle+street+race&r=0.262,0.46,0.524,0.273,0",8.112918755963673
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf_with_expansion,https://www.loc.gov/resource/sn83045487/1912-01-19/ed-1/?sp=32&q=aeroplane+Blanche+lady+Scott,8.110903824660586
+"
+    https://guides.loc.gov/chronicling-america-motorcycle-mania
+    ",prf_with_expansion,https://www.loc.gov/resource/sn93055779/1911-07-26/ed-1/?sp=3&q=aeroplane+Aeroplane+bird+Blanche+Lady+lScott,7.188599859294676
+https://guides.loc.gov/chronicling-america-ouija-board,baseline,https://www.loc.gov/resource/sn84026749/1921-10-26/ed-1/?sp=22&q=Mental+Troubles+Phenomena+Mystisms+Ouija+Board+Planchette+Alphabet+Witch,9.654885766592418
+https://guides.loc.gov/chronicling-america-ouija-board,baseline,https://www.loc.gov/resource/sn86063381/1920-02-24/ed-1/?sp=1&q=Revelation+Lawsuit+Albert+Yost+Ouija+Board+Planchette+Alphabet+Witch,9.378110935380164
+https://guides.loc.gov/chronicling-america-ouija-board,baseline,https://www.loc.gov/resource/sn83030214/1920-11-14/ed-1/?sp=70&q=Invades+Britain+Ouija+Board+Planchette+Alphabet+Witch,8.811946980168347
+https://guides.loc.gov/chronicling-america-ouija-board,baseline,https://www.loc.gov/resource/sn86064187/1917-09-26/ed-1/?sp=27&q=ouija+ghost,8.69669759532072
+https://guides.loc.gov/chronicling-america-ouija-board,baseline,https://www.loc.gov/resource/sn96076839/1920-06-25/ed-1/?sp=3&q=Invented+William+Isaac+Fuld+Baltimore+Dispute+Talking+Ouija+Board+Planchette+Alphabet+Witch,7.752158450678198
+https://guides.loc.gov/chronicling-america-ouija-board,baseline,https://www.loc.gov/resource/sn84026749/1920-01-25/ed-1/?sp=32&q=Baby+Ghost+Spectral+Messages+Curran+Patience+Worth+Talking+Ouija+Board+Planchette+Alphabet+Witch,7.586854387299167
+https://guides.loc.gov/chronicling-america-ouija-board,baseline,https://www.loc.gov/resource/sn85058396/1915-12-11/ed-1/?sp=17&q=Marvelous+Mysterious+Messages+Talking+Patience+Worth+Curran+Ouija+Board+Planchette+Alphabet+Witch,7.232756702329082
+https://guides.loc.gov/chronicling-america-ouija-board,baseline,https://www.loc.gov/resource/sn82016373/1890-12-21/ed-1/?sp=2&q=Mysterious+Talking+Wonder+Ouija+Board+Planchette+Alphabet+Witch,7.068099389283128
+https://guides.loc.gov/chronicling-america-ouija-board,baseline,https://www.loc.gov/resource/sn86076201/1920-03-27/ed-1/?sp=2&q=ouija+ghost,6.849503490432953
+https://guides.loc.gov/chronicling-america-ouija-board,baseline,https://www.loc.gov/resource/sn86075258/1950-05-31/ed-1/?sp=6&q=ouija+ghost,6.279184434270142
+https://guides.loc.gov/chronicling-america-ouija-board,prf,https://www.loc.gov/resource/sn86063381/1920-02-24/ed-1/?sp=1&q=Revelation+Lawsuit+Albert+Yost+Ouija+Board+Planchette+Alphabet+Witch,18.346782046975356
+https://guides.loc.gov/chronicling-america-ouija-board,prf,https://www.loc.gov/resource/sn83030214/1920-11-14/ed-1/?sp=70&q=Invades+Britain+Ouija+Board+Planchette+Alphabet+Witch,17.559098277560736
+https://guides.loc.gov/chronicling-america-ouija-board,prf,https://www.loc.gov/resource/sn84026749/1921-10-26/ed-1/?sp=22&q=Mental+Troubles+Phenomena+Mystisms+Ouija+Board+Planchette+Alphabet+Witch,17.26858129343335
+https://guides.loc.gov/chronicling-america-ouija-board,prf,https://www.loc.gov/resource/sn85058396/1915-12-11/ed-1/?sp=17&q=Marvelous+Mysterious+Messages+Talking+Patience+Worth+Curran+Ouija+Board+Planchette+Alphabet+Witch,13.285087661714261
+https://guides.loc.gov/chronicling-america-ouija-board,prf,https://www.loc.gov/resource/sn84028296/1886-04-29/ed-1/?sp=3&q=Ouija+Board+Planchette+Alphabet+Witch+Talking,12.651075769918993
+https://guides.loc.gov/chronicling-america-ouija-board,prf,https://www.loc.gov/resource/sn94052989/1893-11-14/ed-1/?sp=8&q=Weird+Writings+Craze+Unseen+Forces+Talking+Ouija+Board+Planchette+Alphabet+Witch,12.24232300235069
+https://guides.loc.gov/chronicling-america-ouija-board,prf,https://www.loc.gov/resource/sn86064187/1917-09-26/ed-1/?sp=27&q=ouija+ghost,11.5421577364214
+https://guides.loc.gov/chronicling-america-ouija-board,prf,https://www.loc.gov/resource/sn96076839/1920-06-25/ed-1/?sp=3&q=Invented+William+Isaac+Fuld+Baltimore+Dispute+Talking+Ouija+Board+Planchette+Alphabet+Witch,10.9917653180223
+https://guides.loc.gov/chronicling-america-ouija-board,prf,https://www.loc.gov/resource/sn84026749/1920-01-25/ed-1/?sp=32&q=Baby+Ghost+Spectral+Messages+Curran+Patience+Worth+Talking+Ouija+Board+Planchette+Alphabet+Witch,10.331894391587362
+https://guides.loc.gov/chronicling-america-ouija-board,prf,https://www.loc.gov/resource/sn82016373/1890-12-21/ed-1/?sp=2&q=Mysterious+Talking+Wonder+Ouija+Board+Planchette+Alphabet+Witch,8.521715960446793
+https://guides.loc.gov/chronicling-america-ouija-board,prf_with_expansion,https://www.loc.gov/resource/sn86063381/1920-02-24/ed-1/?sp=1&q=Revelation+Lawsuit+Albert+Yost+Ouija+Board+Planchette+Alphabet+Witch,18.346782046975356
+https://guides.loc.gov/chronicling-america-ouija-board,prf_with_expansion,https://www.loc.gov/resource/sn83030214/1920-11-14/ed-1/?sp=70&q=Invades+Britain+Ouija+Board+Planchette+Alphabet+Witch,17.559098277560736
+https://guides.loc.gov/chronicling-america-ouija-board,prf_with_expansion,https://www.loc.gov/resource/sn84026749/1921-10-26/ed-1/?sp=22&q=Mental+Troubles+Phenomena+Mystisms+Ouija+Board+Planchette+Alphabet+Witch,17.26858129343335
+https://guides.loc.gov/chronicling-america-ouija-board,prf_with_expansion,https://www.loc.gov/resource/sn85058396/1915-12-11/ed-1/?sp=17&q=Marvelous+Mysterious+Messages+Talking+Patience+Worth+Curran+Ouija+Board+Planchette+Alphabet+Witch,13.285087661714261
+https://guides.loc.gov/chronicling-america-ouija-board,prf_with_expansion,https://www.loc.gov/resource/sn84028296/1886-04-29/ed-1/?sp=3&q=Ouija+Board+Planchette+Alphabet+Witch+Talking,12.651075769918993
+https://guides.loc.gov/chronicling-america-ouija-board,prf_with_expansion,https://www.loc.gov/resource/sn94052989/1893-11-14/ed-1/?sp=8&q=Weird+Writings+Craze+Unseen+Forces+Talking+Ouija+Board+Planchette+Alphabet+Witch,12.24232300235069
+https://guides.loc.gov/chronicling-america-ouija-board,prf_with_expansion,https://www.loc.gov/resource/sn86064187/1917-09-26/ed-1/?sp=27&q=ouija+ghost,11.5421577364214
+https://guides.loc.gov/chronicling-america-ouija-board,prf_with_expansion,https://www.loc.gov/resource/sn96076839/1920-06-25/ed-1/?sp=3&q=Invented+William+Isaac+Fuld+Baltimore+Dispute+Talking+Ouija+Board+Planchette+Alphabet+Witch,10.9917653180223
+https://guides.loc.gov/chronicling-america-ouija-board,prf_with_expansion,https://www.loc.gov/resource/sn84026749/1920-01-25/ed-1/?sp=32&q=Baby+Ghost+Spectral+Messages+Curran+Patience+Worth+Talking+Ouija+Board+Planchette+Alphabet+Witch,10.331894391587362
+https://guides.loc.gov/chronicling-america-ouija-board,prf_with_expansion,https://www.loc.gov/resource/sn82016373/1890-12-21/ed-1/?sp=2&q=Mysterious+Talking+Wonder+Ouija+Board+Planchette+Alphabet+Witch,8.521715960446793
+https://guides.loc.gov/chronicling-america-ping-pong-craze,baseline,https://www.loc.gov/resource/sn83016025/1902-08-13/ed-1/?sp=1&q=ping+pong+craze,17.157678877701695
+https://guides.loc.gov/chronicling-america-ping-pong-craze,baseline,https://www.loc.gov/resource/sn84022060/1902-05-22/ed-1/?sp=3&q=ping+pong+craze,15.362512455882115
+https://guides.loc.gov/chronicling-america-ping-pong-craze,baseline,https://www.loc.gov/resource/sn85066387/1902-09-21/ed-1/?sp=11&q=ping-pong,14.908306383531968
+https://guides.loc.gov/chronicling-america-ping-pong-craze,baseline,"https://www.loc.gov/resource/sn82016357/1902-05-03/ed-1/?sp=7&q=PING-PONG+ping+pong+craze&r=-1.345,-0.063,3.69,1.674,0",14.572773110806176
+https://guides.loc.gov/chronicling-america-ping-pong-craze,baseline,https://www.loc.gov/resource/sn88064676/1902-05-22/ed-1/?sp=6&q=ping+pong+craze,14.527131485279087
+https://guides.loc.gov/chronicling-america-ping-pong-craze,baseline,"https://www.loc.gov/resource/sn83045433/1914-05-10/ed-1/?sp=3&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&st=text&r=-0.163,-0.066,1.326,1.326,0",4.4655161962187115
+https://guides.loc.gov/chronicling-america-ping-pong-craze,baseline,https://www.loc.gov/resource/sn90059523/1902-05-25/ed-1/?sp=21&q=daft+ping-pong,4.320685689507982
+https://guides.loc.gov/chronicling-america-ping-pong-craze,baseline,"https://www.loc.gov/resource/sn84026853/1919-03-07/ed-1/?sp=3&q=league+of+nations&st=text&r=-0.364,-0.021,1.728,1.728,0",3.4201852200112106
+https://guides.loc.gov/chronicling-america-ping-pong-craze,baseline,https://www.loc.gov/resource/sn82014424/1881-10-11/ed-1/?sp=4&q=COLOSSAL+STATUE+Liberty+Bedloe%27s+Island+Bartholdi,2.652330875087582
+https://guides.loc.gov/chronicling-america-ping-pong-craze,baseline,https://www.loc.gov/resource/sn94052989/1893-11-14/ed-1/?sp=8&q=Weird+Writings+Craze+Unseen+Forces+Talking+Ouija+Board+Planchette+Alphabet+Witch,2.50352556382819
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf,"https://www.loc.gov/resource/sn82016357/1902-05-03/ed-1/?sp=7&q=PING-PONG+ping+pong+craze&r=-1.345,-0.063,3.69,1.674,0",38.14844217408436
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf,https://www.loc.gov/resource/sn88064676/1902-05-22/ed-1/?sp=6&q=ping+pong+craze,26.36297438061212
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf,https://www.loc.gov/resource/sn83016025/1902-08-13/ed-1/?sp=1&q=ping+pong+craze,21.841367059699692
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf,https://www.loc.gov/resource/sn85066387/1902-09-21/ed-1/?sp=11&q=ping-pong,18.352584106440364
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf,"https://www.loc.gov/resource/sn84020274/1902-05-18/ed-1/?sp=46&q=PING+PONG+ping+pong+ping-pong&r=-1.155,-0.002,3.31,1.501,0",17.68068921088713
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf,https://www.loc.gov/resource/sn90059523/1902-05-25/ed-1/?sp=21&q=daft+ping-pong,16.847646699635916
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf,https://www.loc.gov/resource/sn84022060/1902-05-22/ed-1/?sp=3&q=ping+pong+craze,15.362512455882115
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf,"https://www.loc.gov/resource/sn85066387/1902-06-01/ed-1/?sp=13&q=PING-PONG&r=-0.252,0.339,1.717,0.779,0",12.623542821711013
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf,https://www.loc.gov/resource/sn83030214/1920-11-14/ed-1/?sp=70&q=Invades+Britain+Ouija+Board+Planchette+Alphabet+Witch,11.918318025748917
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf,"https://www.loc.gov/resource/sn83030214/1900-12-23/ed-1/?sp=29&q=TABLE+TENNIS&r=-1.337,-0.016,3.674,1.667,0",11.57596600032885
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf_with_expansion,"https://www.loc.gov/resource/sn82016357/1902-05-03/ed-1/?sp=7&q=PING-PONG+ping+pong+craze&r=-1.345,-0.063,3.69,1.674,0",38.14844217408436
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf_with_expansion,https://www.loc.gov/resource/sn88064676/1902-05-22/ed-1/?sp=6&q=ping+pong+craze,26.36297438061212
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf_with_expansion,https://www.loc.gov/resource/sn83016025/1902-08-13/ed-1/?sp=1&q=ping+pong+craze,21.841367059699692
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf_with_expansion,https://www.loc.gov/resource/sn85066387/1902-09-21/ed-1/?sp=11&q=ping-pong,18.352584106440364
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf_with_expansion,"https://www.loc.gov/resource/sn84020274/1902-05-18/ed-1/?sp=46&q=PING+PONG+ping+pong+ping-pong&r=-1.155,-0.002,3.31,1.501,0",17.68068921088713
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf_with_expansion,https://www.loc.gov/resource/sn90059523/1902-05-25/ed-1/?sp=21&q=daft+ping-pong,16.847646699635916
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf_with_expansion,https://www.loc.gov/resource/sn84022060/1902-05-22/ed-1/?sp=3&q=ping+pong+craze,15.362512455882115
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf_with_expansion,"https://www.loc.gov/resource/sn85066387/1902-06-01/ed-1/?sp=13&q=PING-PONG&r=-0.252,0.339,1.717,0.779,0",12.623542821711013
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf_with_expansion,https://www.loc.gov/resource/sn83030214/1920-11-14/ed-1/?sp=70&q=Invades+Britain+Ouija+Board+Planchette+Alphabet+Witch,11.918318025748917
+https://guides.loc.gov/chronicling-america-ping-pong-craze,prf_with_expansion,"https://www.loc.gov/resource/sn83030214/1900-12-23/ed-1/?sp=29&q=TABLE+TENNIS&r=-1.337,-0.016,3.674,1.667,0",11.57596600032885
+https://guides.loc.gov/chronicling-america-statue-of-liberty,baseline,https://www.loc.gov/resource/sn84026497/1878-04-17/ed-1/?sp=4&q=Statue+Harbor+Liberty+Lighting+World+Bartholdi,9.60696088271214
+https://guides.loc.gov/chronicling-america-statue-of-liberty,baseline,https://www.loc.gov/resource/sn82006551/1935-12-26/ed-1/?sp=7&q=statue+of+liberty,9.541367792589398
+https://guides.loc.gov/chronicling-america-statue-of-liberty,baseline,https://www.loc.gov/resource/sn83040340/1886-11-05/ed-1/?sp=6&q=Liberty+Light+Statue+Bartholdi+Colossal+Bedloe+Island,9.263238545352868
+https://guides.loc.gov/chronicling-america-statue-of-liberty,baseline,https://www.loc.gov/resource/sn85053305/1920-05-14/ed-1/?sp=2&q=statue+of+liberty,8.285703537705624
+https://guides.loc.gov/chronicling-america-statue-of-liberty,baseline,https://www.loc.gov/resource/sn86075284/1947-07-18/ed-1/?sp=6&q=statue+of+liberty,8.071241784812717
+https://guides.loc.gov/chronicling-america-statue-of-liberty,baseline,https://www.loc.gov/resource/sn89064939/1885-07-29/ed-1/?sp=1&q=BARTHOLDI+GIRL+Liberty+Enlightening+World+Statue+Pedestal+Colossal,7.83840167072497
+https://guides.loc.gov/chronicling-america-statue-of-liberty,baseline,https://www.loc.gov/resource/sn83030214/1886-10-24/ed-1/?sp=9&q=Statue+Liberty+Bartholdi+Goddess+Bedlow+Island,7.108723388727721
+https://guides.loc.gov/chronicling-america-statue-of-liberty,baseline,https://www.loc.gov/resource/sn86071854/1886-10-29/ed-1/?sp=1&q=Liberty+Statue+Grand+Bedloe+Island,7.103544433251912
+https://guides.loc.gov/chronicling-america-statue-of-liberty,baseline,"https://www.loc.gov/resource/sn84026853/1919-03-07/ed-1/?sp=3&q=league+of+nations&st=text&r=-0.364,-0.021,1.728,1.728,0",6.893445745377036
+https://guides.loc.gov/chronicling-america-statue-of-liberty,baseline,https://www.loc.gov/resource/sn83032011/1886-11-05/ed-1/?sp=1&q=Statue+Liberty+Bartholdi+Goddess+Pedestal+Colossal+Bedlow+Island,6.805224006627764
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf,https://www.loc.gov/resource/sn83040340/1886-11-05/ed-1/?sp=6&q=Liberty+Light+Statue+Bartholdi+Colossal+Bedloe+Island,23.643167887603504
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf,https://www.loc.gov/resource/sn82006551/1935-12-26/ed-1/?sp=7&q=statue+of+liberty,20.372053000621648
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf,https://www.loc.gov/resource/sn84026497/1878-04-17/ed-1/?sp=4&q=Statue+Harbor+Liberty+Lighting+World+Bartholdi,19.81973563295695
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf,https://www.loc.gov/resource/sn82014424/1881-10-11/ed-1/?sp=4&q=COLOSSAL+STATUE+Liberty+Bedloe%27s+Island+Bartholdi,16.593570667156353
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf,https://www.loc.gov/resource/sn83032011/1886-11-05/ed-1/?sp=1&q=Statue+Liberty+Bartholdi+Goddess+Pedestal+Colossal+Bedlow+Island,14.881516360388956
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf,https://www.loc.gov/resource/sn89064939/1885-07-29/ed-1/?sp=1&q=BARTHOLDI+GIRL+Liberty+Enlightening+World+Statue+Pedestal+Colossal,13.812802333105921
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf,https://www.loc.gov/resource/sn85053305/1920-05-14/ed-1/?sp=2&q=statue+of+liberty,13.55992471029725
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf,https://www.loc.gov/resource/sn82016187/1885-05-28/ed-1/?sp=8&q=BARTHOLDI+STATUE+Liberty+Enlightening+World+Wonder+Colossus+Bedloe+Island,13.348462895910853
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf,https://www.loc.gov/resource/sn86071854/1886-10-29/ed-1/?sp=1&q=Liberty+Statue+Grand+Bedloe+Island,13.18438498949659
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf,"https://www.loc.gov/resource/sn84026853/1919-03-07/ed-1/?sp=3&q=league+of+nations&st=text&r=-0.364,-0.021,1.728,1.728,0",9.198253091691
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf_with_expansion,https://www.loc.gov/resource/sn83040340/1886-11-05/ed-1/?sp=6&q=Liberty+Light+Statue+Bartholdi+Colossal+Bedloe+Island,23.643167887603504
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf_with_expansion,https://www.loc.gov/resource/sn82006551/1935-12-26/ed-1/?sp=7&q=statue+of+liberty,20.372053000621648
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf_with_expansion,https://www.loc.gov/resource/sn84026497/1878-04-17/ed-1/?sp=4&q=Statue+Harbor+Liberty+Lighting+World+Bartholdi,19.81973563295695
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf_with_expansion,https://www.loc.gov/resource/sn82014424/1881-10-11/ed-1/?sp=4&q=COLOSSAL+STATUE+Liberty+Bedloe%27s+Island+Bartholdi,16.593570667156353
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf_with_expansion,https://www.loc.gov/resource/sn83032011/1886-11-05/ed-1/?sp=1&q=Statue+Liberty+Bartholdi+Goddess+Pedestal+Colossal+Bedlow+Island,14.881516360388956
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf_with_expansion,https://www.loc.gov/resource/sn89064939/1885-07-29/ed-1/?sp=1&q=BARTHOLDI+GIRL+Liberty+Enlightening+World+Statue+Pedestal+Colossal,13.812802333105921
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf_with_expansion,https://www.loc.gov/resource/sn85053305/1920-05-14/ed-1/?sp=2&q=statue+of+liberty,13.55992471029725
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf_with_expansion,https://www.loc.gov/resource/sn82016187/1885-05-28/ed-1/?sp=8&q=BARTHOLDI+STATUE+Liberty+Enlightening+World+Wonder+Colossus+Bedloe+Island,13.348462895910853
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf_with_expansion,https://www.loc.gov/resource/sn86071854/1886-10-29/ed-1/?sp=1&q=Liberty+Statue+Grand+Bedloe+Island,13.18438498949659
+https://guides.loc.gov/chronicling-america-statue-of-liberty,prf_with_expansion,"https://www.loc.gov/resource/sn84026853/1919-03-07/ed-1/?sp=3&q=league+of+nations&st=text&r=-0.364,-0.021,1.728,1.728,0",9.198253091691
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",baseline,"https://www.loc.gov/resource/sn83016209/1961-09-12/ed-1/?sp=7&q=yoga&r=0.237,0.038,0.903,0.471,0",6.6136952991102
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",baseline,"https://www.loc.gov/resource/sn82001257/1961-07-23/ed-1/?sp=5&q=yoga&r=-0.252,0.484,1.643,0.856,0",6.445956292110524
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",baseline,https://www.loc.gov/resource/sn86002403/1951-11-16/ed-1/?sp=4&q=yoga,6.18987182240008
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",baseline,https://chroniclingamerica.loc.gov/lccn/sn84026749/1904-12-18/ed-1/seq-30/#words=Vedanta+Vivekananda+yogis+Swami+yogi+yoga+Yoga,5.994955581728971
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",baseline,https://chroniclingamerica.loc.gov/lccn/sn83030272/1908-12-06/ed-1/seq-18/#words=yoga+Yoga+Swami+Vedanta+VIVEKANANDA+VEDANTA+SWAMI+swami+Vedantic,5.833332591783197
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",baseline,"https://www.loc.gov/resource/sn88063294/1945-01-21/ed-1/?sp=55&q=yoga&r=0.002,0.715,1.183,0.616,0",4.806104244232618
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",baseline,"https://www.loc.gov/resource/sn84026853/1919-03-07/ed-1/?sp=3&q=league+of+nations&st=text&r=-0.364,-0.021,1.728,1.728,0",3.4201852200112106
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",baseline,https://chroniclingamerica.loc.gov/lccn/sn84026749/1908-05-17/ed-1/seq-37/#words=yoga+Yoga+YOGA+Yogi+Yogis,3.2743140185712516
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",baseline,https://www.loc.gov/resource/sn82014424/1881-10-11/ed-1/?sp=4&q=COLOSSAL+STATUE+Liberty+Bedloe%27s+Island+Bartholdi,2.652330875087582
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",baseline,https://www.loc.gov/resource/sn84026497/1878-04-17/ed-1/?sp=4&q=Statue+Harbor+Liberty+Lighting+World+Bartholdi,2.488232160945369
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf,"https://www.loc.gov/resource/sn82001257/1961-07-23/ed-1/?sp=5&q=yoga&r=-0.252,0.484,1.643,0.856,0",21.857250427384045
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf,https://www.loc.gov/resource/sn86002403/1951-11-16/ed-1/?sp=4&q=yoga,21.551314025862155
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf,https://chroniclingamerica.loc.gov/lccn/sn84026749/1904-12-18/ed-1/seq-30/#words=Vedanta+Vivekananda+yogis+Swami+yogi+yoga+Yoga,12.990563367743462
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf,https://chroniclingamerica.loc.gov/lccn/sn83030272/1908-12-06/ed-1/seq-18/#words=yoga+Yoga+Swami+Vedanta+VIVEKANANDA+VEDANTA+SWAMI+swami+Vedantic,10.761609306696108
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf,"https://www.loc.gov/resource/sn83016209/1961-09-12/ed-1/?sp=7&q=yoga&r=0.237,0.038,0.903,0.471,0",9.610431445480629
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf,https://chroniclingamerica.loc.gov/lccn/sn84026749/1908-05-17/ed-1/seq-37/#words=yoga+Yoga+YOGA+Yogi+Yogis,9.008497704722055
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf,https://www.loc.gov/resource/sn84026497/1878-04-17/ed-1/?sp=4&q=Statue+Harbor+Liberty+Lighting+World+Bartholdi,6.856895541426563
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf,https://www.loc.gov/resource/sn85042462/1905-07-21/ed-1/?sp=9&q=Chinese+CHINESE+Exclusion+EXCLUSION+exclusion,6.487157384096935
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf,https://www.loc.gov/resource/sn88084272/1920-01-16/ed-1/?sp=1&q=Wilson+League+Geneva,6.389422885720027
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf,"https://www.loc.gov/resource/sn84001718/1920-10-29/ed-1/?sp=4&q=league+of+nations&r=-1.137,-0.042,3.274,1.482,0",6.010989196607719
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf_with_expansion,"https://www.loc.gov/resource/sn82001257/1961-07-23/ed-1/?sp=5&q=yoga&r=-0.252,0.484,1.643,0.856,0",21.857250427384045
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf_with_expansion,https://www.loc.gov/resource/sn86002403/1951-11-16/ed-1/?sp=4&q=yoga,21.551314025862155
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf_with_expansion,https://chroniclingamerica.loc.gov/lccn/sn84026749/1904-12-18/ed-1/seq-30/#words=Vedanta+Vivekananda+yogis+Swami+yogi+yoga+Yoga,12.990563367743462
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf_with_expansion,https://chroniclingamerica.loc.gov/lccn/sn83030272/1908-12-06/ed-1/seq-18/#words=yoga+Yoga+Swami+Vedanta+VIVEKANANDA+VEDANTA+SWAMI+swami+Vedantic,10.761609306696108
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf_with_expansion,"https://www.loc.gov/resource/sn83016209/1961-09-12/ed-1/?sp=7&q=yoga&r=0.237,0.038,0.903,0.471,0",9.610431445480629
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf_with_expansion,https://chroniclingamerica.loc.gov/lccn/sn84026749/1908-05-17/ed-1/seq-37/#words=yoga+Yoga+YOGA+Yogi+Yogis,9.008497704722055
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf_with_expansion,https://www.loc.gov/resource/sn84026497/1878-04-17/ed-1/?sp=4&q=Statue+Harbor+Liberty+Lighting+World+Bartholdi,6.856895541426563
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf_with_expansion,https://www.loc.gov/resource/sn85042462/1905-07-21/ed-1/?sp=9&q=Chinese+CHINESE+Exclusion+EXCLUSION+exclusion,6.487157384096935
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf_with_expansion,https://www.loc.gov/resource/sn88084272/1920-01-16/ed-1/?sp=1&q=Wilson+League+Geneva,6.389422885720027
+"
+    https://guides.loc.gov/chronicling-america-yoga
+    ",prf_with_expansion,"https://www.loc.gov/resource/sn84001718/1920-10-29/ed-1/?sp=4&q=league+of+nations&r=-1.137,-0.042,3.274,1.482,0",6.010989196607719
